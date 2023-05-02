@@ -192,3 +192,4 @@ rsconnect/
 ### CUSTOM ###
 
 data/
+keys.py
