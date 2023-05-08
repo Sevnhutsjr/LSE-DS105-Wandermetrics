@@ -11,9 +11,7 @@ _If you like this project, please consider giving it a ⭐️!_
 
 # 👥 **Team**
 
-- [Jon](http://github.com/jonjoncardoso) as the core developer
 
-**People who have contributed to this course in the past:**
 
 - [Karina Moura](https://github.com/kvmoura). _A stellar project manager!_
 - [Natalia Del Coco](https://github.com/NataliaDelCoco). _She is taking her van to the mountains for a while._
