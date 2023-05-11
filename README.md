@@ -1,6 +1,8 @@
 
 # A Practical Workflow for Data Science Projects
 LETS GOOOOOOOOOO
+Wandermetrics is a team of skilled data scientists that specialize in tourism analytics. Their latest project is aimed at collecting and analyzing data on travel patterns and preferences of tourists in various regions. The team uses various tools and techniques to collect and analyze data, including web scraping, machine learning, and data visualization. They also collaborate with local tourism agencies and travel companies to get access to real-time data on tourists' behaviors and preferences. The ultimate goal of the project is to provide insights into the tourism industry that can be used by various stakeholders to make informed decisions, enhance tourist experiences, and increase revenue. The Wandermetrics team is passionate about using data science to unlock new opportunities and improve the tourism industry.
+
 This project is intended as a template structure for data science projects. Its main intended use is for teams within organizations but we see no reason why you would not benefit from it even if you are coding solo, participating in a data hackathon or are in an academic group, doing exploratory, statistical analysis or algorithm modelling.
 
 This is a standalone **template project** that can be used as a starting point for any data science project. It is not a framework, a library, or a package. It is a template that you can use to start your own project. It is not intended to be a one-size-fits-all solution, but rather a starting point for you to build your own project structure.
@@ -9,9 +11,7 @@ _If you like this project, please consider giving it a ⭐️!_
 
 # 👥 **Team**
 
-- [Jon](http://github.com/jonjoncardoso) as the core developer
 
-**People who have contributed to this course in the past:**
 
 - [Karina Moura](https://github.com/kvmoura). _A stellar project manager!_
 - [Natalia Del Coco](https://github.com/NataliaDelCoco). _She is taking her van to the mountains for a while._
