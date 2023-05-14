@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "OurWebsite"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+    tools:
+        - icon: github
+          href: https://github.com/Sevnhutsjr/LSE-DS105-Wandermetrics
+
+
+
+
+
+
+
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+
+
+
+
+
+
