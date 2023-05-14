@@ -10,8 +10,12 @@ website:
       - about.qmd
     tools:
         - icon: github
-          href: https://github.com/Sevnhutsjr/LSE-DS105-Wandermetrics
-
+          menu:
+            - text: Source Code
+              url:  https://github.com/Sevnhutsjr/LSE-DS105-Wandermetrics
+            - text: Report a Bug
+              url:  https://github.com/Sevnhutsjr/LSE-DS105-Wandermetrics/issues/new/choose
+          
 
 
 
