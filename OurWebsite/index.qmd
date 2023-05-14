@@ -1,5 +1,5 @@
 ---
-title: "OurWebsite"
+title: "Where Can Be Your Best Weekend Getaway in Europe This Summer?"
 ---
 
 This is a Quarto website.

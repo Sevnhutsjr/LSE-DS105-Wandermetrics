@@ -8,23 +8,20 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+    tools:
+        - icon: github
+          href: https://github.com/Sevnhutsjr/LSE-DS105-Wandermetrics
 
-  sidebar:
-    style: "docked"
-    search: true
-    contents:
-      - section: "Basics"
-        contents:
-          - index.qmd
 
-      - section: "Layout"
-        contents:
-          - Berlin.md
-          
+
+
+
+
+
 
 format:
   html:
-    theme: cosmo
+    theme: yeti
     css: styles.css
     toc: true
 
