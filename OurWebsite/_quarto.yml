@@ -15,6 +15,29 @@ website:
               url:  https://github.com/Sevnhutsjr/LSE-DS105-Wandermetrics
             - text: Report a Bug
               url:  https://github.com/Sevnhutsjr/LSE-DS105-Wandermetrics/issues/new/choose
+  
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Process"
+        contents:
+          - Data_Collection.qmd
+          
+          
+      - section: "Visualisations"
+        contents:
+          - Berlin.qmd
+          - Paris.qmd
+          - Rome.qmd
+          - Lisbon.qmd
+          - Budapest.qmd
+          - Madrid.qmd
+          - Athens.qmd
+
+      - section: "Findings"
+        contents:
+          - Conclusion.qmd
           
 
 
