@@ -6,4 +6,6 @@ This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-![datacollectionflowchart](figures/web_flight.jpg)
+<p style='text-align:center'>
+    <img src="figures/web_flight.jpg" width="960" height="540" />
+</p>
