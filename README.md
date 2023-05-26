@@ -1,37 +1,26 @@
 
-# A Practical Workflow for Data Science Projects
-LETS GOOOOOOOOOO
-Wandermetrics is a team of skilled data scientists that specialize in tourism analytics. Their latest project is aimed at collecting and analyzing data on travel patterns and preferences of tourists in various regions. The team uses various tools and techniques to collect and analyze data, including web scraping, machine learning, and data visualization. They also collaborate with local tourism agencies and travel companies to get access to real-time data on tourists' behaviors and preferences. The ultimate goal of the project is to provide insights into the tourism industry that can be used by various stakeholders to make informed decisions, enhance tourist experiences, and increase revenue. The Wandermetrics team is passionate about using data science to unlock new opportunities and improve the tourism industry.
+# A Practical Workflow for Our Projects
 
-This project is intended as a template structure for data science projects. Its main intended use is for teams within organizations but we see no reason why you would not benefit from it even if you are coding solo, participating in a data hackathon or are in an academic group, doing exploratory, statistical analysis or algorithm modelling.
-
-This is a standalone **template project** that can be used as a starting point for any data science project. It is not a framework, a library, or a package. It is a template that you can use to start your own project. It is not intended to be a one-size-fits-all solution, but rather a starting point for you to build your own project structure.
-
-_If you like this project, please consider giving it a ⭐️!_
 
 # 👥 **Team**
-
-
-
 - [Karina Moura](https://github.com/kvmoura). _A stellar project manager!_
 - [Natalia Del Coco](https://github.com/NataliaDelCoco). _She is taking her van to the mountains for a while._
 - [Sara Luxmoore](https://github.com/SaraLuxmoore). _She can be seen doing cool research-related stuff in Italy these days._
 
-# Initial repository setup
+# Step 1: Data Collection and Preliminary Cleaning
 
-Follow the instructions below to make use of this template.
+The first step in our project involves data collection and preliminary data cleaning. We use two notebooks for this process, both located in the **Code** folder.
 
-1. Create a new repository on GitHub using this template. You can do this by clicking on the green "Use this template" button on the top right of this page. 
+1. [dep&ret_tickets_data.ipynb](https://github.com/Sevnhutsjr/LSE-DS105-Wandermetrics/blob/main/Code/dep%26ret_tickets_data.ipynb): This notebook is used for weekly data collection. It gathers data on both departure and return flight tickets. After the data is collected, we perform an initial cleaning process. This involves selecting the necessary columns and ensuring that the data frames for each city are coherent. This cleaned data provides a comprehensive view of the flight details, including both departure and return flights.
 
-    ![Illustration of how to use this template](https://user-images.githubusercontent.com/896254/224554953-9819f73a-fdd1-4045-a183-dfa7d3601121.png)
+2. [dep_tickets_data_and_clean.ipynb](https://github.com/Sevnhutsjr/LSE-DS105-Wandermetrics/blob/main/Code/dep_tickets_data_and_clean.ipynb): This notebook is specifically used to collect data on departure tickets. The purpose of this separate data collection is to analyze the relationship between departure airports and ticket prices without the influence of return tickets. This data provides a focused view on departure flight details and allows us to isolate the impact of departure airport on ticket prices.
 
-2. Give your project a name and description. You can also choose to make the repository **private** if you wish. 
-    - Leave "Include all branches" unchecked.
+These notebooks form the foundation of our data collection process, providing us with clean, organized data that is ready for further analysis.
 
-3. GitHub will copy the files from this repository into your new repository and it will trigger an **Actions** workflow. This workflow will customize labels (to include emojis!) as well as Issues and Pull Request templates for your project.
-    - If you are not familiar with GitHub Actions, you can read more about it [here](https://docs.github.com/en/actions).
+# Step 2: Having an initial sense of Data distribution and some outlier analysis:
 
-4. Clone your new repository to your computer and start working on it!
+
+
 
 # First steps
 
