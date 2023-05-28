@@ -38,6 +38,7 @@ All cities show a right-skewed distribution, where the mean is higher than the m
 
 
 
+
 Cities like Paris, Madrid, and Berlin have a relatively narrow price distribution. This suggests that the price difference in these cities is smaller, and most prices are concentrated in the middle range.
 Cities like Athens, Lisbon, and Budapest have a relatively wide price distribution. This suggests that these cities have a larger price difference, and there may be some high-end listings. 
 Some interesting points：
