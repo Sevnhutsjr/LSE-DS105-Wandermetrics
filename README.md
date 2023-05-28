@@ -29,7 +29,7 @@ In order to find out factors affects weekend flight price, we carried out severa
 
 2.Departure Airport Analysis：
 
-3.Carrier Provider Analysis：
+3.Carrier Provider and Price Analysis：[price_analysis.ipynb](https://github.com/Sevnhutsjr/LSE-DS105-Wandermetrics/blob/main/Visualisations/price_analysis.ipynb). Here we analyse the price to each destination for each airline overall. We use the mean to see what your expected flight price is, median to understand the price range and the minimum to see what the cheapest airline and destination is. There is a “mixed” line which represents chosing a different outbound and return airline to your destination and is only interesting in regards to the minimum price, as it shows what the cheapest price could be. 
 
 4.Booking time window analysis:[Booking_time_window.ipynb](https://github.com/Sevnhutsjr/LSE-DS105-Wandermetrics/blob/main/Visualisations/Booking_time_window.ipynb). This notebook is about the visualisations for booking time window analysis, and we generated the dynamic graphs to show how the price distributions for each city changed over time and used the Wasserstein distance to evaluate hoe similar of the two price distributions for each consecutive dates.
 

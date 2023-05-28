@@ -1,10 +1,19 @@
 ---
-title: "WanderMetrics"
+title: "Where Should You Go For Weekend Getaway This Summer?"
 ---
+<br>
+Your complete guide to a wonderful summer
+<br>
 
-
+## Project Overview
+<br>
 
 <p style='text-align:center'>
     <img src="figures/web_flight.jpg" width="960" height="540" />
 </p>
 
+## Our Motivation
+<br>
+
+## Our Goal
+<br>
