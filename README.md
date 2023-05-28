@@ -1,7 +1,3 @@
-
-# A Practical Workflow for Our Projects
-
-
 # 👥 **Team**
 - [Yuhan Liu](https://github.com/Yuhan1224). 
 - [Lena Umphprn](https://github.com/lenaumphprn). 
