@@ -1,3 +1,6 @@
 ---
 title: "Athens"
 ---
+<p style='text-align:center'>
+    <img src="figures/Wallpapers/athens.jpg" width="960" height="414" />
+</p>

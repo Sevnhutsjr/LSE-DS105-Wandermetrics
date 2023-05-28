@@ -1,3 +1,6 @@
 ---
 title: "Berlin"
 ---
+<p style='text-align:center'>
+    <img src="figures/Wallpapers/berlin.jpg" width="960" height="530" />
+</p>
