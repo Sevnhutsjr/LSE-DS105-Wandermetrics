@@ -1,19 +1,16 @@
-
-# A Practical Workflow for Our Projects
-
-
 # 👥 **Team**
-- [Karina Moura](https://github.com/kvmoura). _A stellar project manager!_
-- [Natalia Del Coco](https://github.com/NataliaDelCoco). _She is taking her van to the mountains for a while._
-- [Sara Luxmoore](https://github.com/SaraLuxmoore). _She can be seen doing cool research-related stuff in Italy these days._
+- [Yuhan Liu](https://github.com/Yuhan1224). 
+- [Lena Umphprn](https://github.com/lenaumphprn). 
+- [Jiaming Zhang](https://github.com/knzz716). 
+- [Nikolai Semikhatov](https://github.com/Sevnhutsjr).
 
 # Work Contribution
 | **People** | **Data Collection** | **Data Cleaning** | **Code Quality Check**  | **Data Summary and Visualization** | **Report** |
 |:-----------|:-------------------:|:-----------------:|:-----------------------:|:----------------------------------:|:----------:|
-| Lena |      10%          |      20%        |      25%              |      30%                         |   40%    |
-| Kevin |      30%          |      20%        |      25%              |      40%                         |   10%    |
-| Kathy |      50%          |      20%        |      25%              |      20%                         |   10%    |
-| Nikolai |      10%          |      40%        |      25%              |      10%                         |   40%    |
+| Lena |      10%          |      20%        |      25%              |      30%                         |   25%    |
+| Kevin |      30%          |      20%        |      25%              |      10%                         |   25%    |
+| Kathy |      50%          |      40%        |      25%              |      30%                         |   25%    |
+| Nikolai |      10%          |      20%        |      25%              |      30%                         |   25%    |
 
 # Step 1: Data Collection and Preliminary Cleaning
 
@@ -25,9 +22,11 @@ The first step in our project involves data collection and preliminary data clea
 
 These notebooks form the foundation of our data collection process, providing us with clean, organized data that is ready for further analysis.
 
-# Step 2: Having an initial sense of Data distribution and some Outlier Analysis:
+# Step 2: Having An Initial Sense of Data distribution and Outlier Analysis:
 
 To understand how the data looks like, we had plotted the data distribution for each city and done some outlier analysis, which proviede by this notebook [Data_distribution&Outlier_analysis.ipynb](https://github.com/Sevnhutsjr/LSE-DS105-Wandermetrics/blob/main/Code/Data_distribution%26Outlier_analysis.ipynb)
+
+**We've decided to use the median for our visualizations because the presence of outliers can skew the mean, making it less representative of our data. In such cases, the median provides a more stable measure of central tendency, and so we opt to use it for further visualizations.**
 
 # Step 3: Visualisaztion
 
