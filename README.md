@@ -31,9 +31,7 @@ In order to find out factors affects weekend flight price, we carried out severa
 
 3.Carrier Provider Analysis：
 
-4.Booking agents analysis：
-
-5.Booking time window analysis:[Booking_time_window.ipynb](https://github.com/Sevnhutsjr/LSE-DS105-Wandermetrics/blob/main/Visualisations/Booking_time_window.ipynb). This notebook is about the visualisations for booking time window analysis, and we generated the dynamic graphs to show how the price distributions for each city changed over time and used the Wasserstein distance to evaluate hoe similar of the two price distributions for each consecutive dates.
+4.Booking time window analysis:[Booking_time_window.ipynb](https://github.com/Sevnhutsjr/LSE-DS105-Wandermetrics/blob/main/Visualisations/Booking_time_window.ipynb). This notebook is about the visualisations for booking time window analysis, and we generated the dynamic graphs to show how the price distributions for each city changed over time and used the Wasserstein distance to evaluate hoe similar of the two price distributions for each consecutive dates.
 
 
 
