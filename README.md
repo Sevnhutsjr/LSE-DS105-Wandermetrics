@@ -22,7 +22,7 @@ The first step in our project involves data collection and preliminary data clea
 
 These notebooks form the foundation of our data collection process, providing us with clean, organized data that is ready for further analysis.
 
-# Step 2: Having an initial sense of Data distribution and some Outlier Analysis:
+# Step 2: Having An Initial Sense of Data distribution and Outlier Analysis:
 
 To understand how the data looks like, we had plotted the data distribution for each city and done some outlier analysis, which proviede by this notebook [Data_distribution&Outlier_analysis.ipynb](https://github.com/Sevnhutsjr/LSE-DS105-Wandermetrics/blob/main/Code/Data_distribution%26Outlier_analysis.ipynb)
 
