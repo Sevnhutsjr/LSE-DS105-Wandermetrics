@@ -7,6 +7,14 @@
 - [Natalia Del Coco](https://github.com/NataliaDelCoco). _She is taking her van to the mountains for a while._
 - [Sara Luxmoore](https://github.com/SaraLuxmoore). _She can be seen doing cool research-related stuff in Italy these days._
 
+# Work Contribution
+| **People** | **Data Collection** | **Data Cleaning** | **Code Quality Check**  | **Data Summary and Visualization** | **Report** |
+|:-----------|:-------------------:|:-----------------:|:-----------------------:|:----------------------------------:|:----------:|
+| Lena |      10%          |      20%        |      25%              |      30%                         |   40%    |
+| Kevin |      30%          |      20%        |      25%              |      40%                         |   10%    |
+| Kathy |      50%          |      20%        |      25%              |      20%                         |   10%    |
+| Nikolai |      10%          |      40%        |      25%              |      10%                         |   40%    |
+
 # Step 1: Data Collection and Preliminary Cleaning
 
 The first step in our project involves data collection and preliminary data cleaning. We use two notebooks for this process, both located in the **Data&Outlier_Analysis** folder.
