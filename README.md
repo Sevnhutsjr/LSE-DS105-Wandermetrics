@@ -26,6 +26,8 @@ These notebooks form the foundation of our data collection process, providing us
 
 To understand how the data looks like, we had plotted the data distribution for each city and done some outlier analysis, which proviede by this notebook [Data_distribution&Outlier_analysis.ipynb](https://github.com/Sevnhutsjr/LSE-DS105-Wandermetrics/blob/main/Code/Data_distribution%26Outlier_analysis.ipynb)
 
+**We've decided to use the median for our visualizations because the presence of outliers can skew the mean, making it less representative of our data. In such cases, the median provides a more stable measure of central tendency, and so we opt to use it for further visualizations.**
+
 # Step 3: Visualisaztion
 
 In order to find out factors affects weekend flight price, we carried out several analysis:
