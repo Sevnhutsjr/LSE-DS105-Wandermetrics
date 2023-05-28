@@ -19,9 +19,7 @@ The data includes various details such as departure and arrival times, airports,
 
 All cities show a right-skewed distribution, where the mean is higher than the median, indicating that there are some higher-priced tickets pulling the mean up. This could be due to factors like premium flights or higher prices during peak travel times.
 
-<p style='text-align:center'>
-    <img src="figures/distribution_city.png" width="960" height="700" />
-</p>
+
 
 Cities like Paris, Madrid, and Berlin have a relatively narrow price distribution. This suggests that the price difference in these cities is smaller, and most prices are concentrated in the middle range.
 Cities like Athens, Lisbon, and Budapest have a relatively wide price distribution. This suggests that these cities have a larger price difference, and there may be some high-end listings. 

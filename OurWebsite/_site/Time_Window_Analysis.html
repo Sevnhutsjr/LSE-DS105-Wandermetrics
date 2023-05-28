@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.340">
+<meta name="generator" content="quarto-1.3.361">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -55,7 +55,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -117,7 +118,7 @@ ul.task-list li input[type="checkbox"] {
       <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Time_Window_Analysis.html">Further Analysis</a></li><li class="breadcrumb-item"><a href="./Time_Window_Analysis.html">Time Window Analysis</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
-      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
@@ -137,7 +138,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
- <span class="menu-text">Process</span></a>
+ <span class="menu-text">Data</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -146,7 +147,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./Data_Collection.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Data Collection</span></a>
+ <span class="menu-text">Data</span></a>
   </div>
 </li>
       </ul>
@@ -244,7 +245,14 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#how-the-price-distributions-change-over-time" id="toc-how-the-price-distributions-change-over-time" class="nav-link active" data-scroll-target="#how-the-price-distributions-change-over-time">How the Price Distributions Change Over Time</a></li>
+  <li><a href="#wasserstein-distances1" id="toc-wasserstein-distances1" class="nav-link" data-scroll-target="#wasserstein-distances1">Wasserstein Distances<sup style="font-size: 0.7em;">1</sup></a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -266,8 +274,47 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<section id="how-the-price-distributions-change-over-time" class="level2">
+<h2 class="anchored" data-anchor-id="how-the-price-distributions-change-over-time">How the Price Distributions Change Over Time</h2>
+<p style="text-align:center">
+<iframe src="figures/output_Paris.html" width="800" height="500">
+</iframe>
+</p><p>
+</p><p style="text-align:center">
+<iframe src="figures/output_Berlin.html" width="800" height="540">
+</iframe>
+</p><p>
+</p><p style="text-align:center">
+<iframe src="figures/output_Madrid.html" width="800" height="540">
+</iframe>
+</p><p>
+</p><p style="text-align:center">
+<iframe src="figures/output_Lisbon.html" width="800" height="540">
+</iframe>
+</p><p>
+</p><p style="text-align:center">
+<iframe src="figures/output_Rome.html" width="800" height="540">
+</iframe>
+</p><p>
+</p><p style="text-align:center">
+<iframe src="figures/output_Budapest.html" width="800" height="540">
+</iframe>
+</p><p>
+</p><p style="text-align:center">
+<iframe src="figures/output_Athens.html" width="800" height="540">
+</iframe>
+</p><p>
+</p><p>From the dynamic graphs above we can see that, in terms of the distribution of prices across the seven time windows, there is a general trend of prices increasing in all cities. This is evidenced by the rise in the median and quartile values across successive weeks. However, there are notable differences in the degree of increase among cities. For instance, cities like Madrid and Budapest showed considerable increase in prices, while the price rise in Paris and Berlin was more modest.Regardless of these variations, Athens consistently had the highest prices across all time windows.</p>
+</section>
+<section id="wasserstein-distances1" class="level2">
+<h2 class="anchored" data-anchor-id="wasserstein-distances1">Wasserstein Distances<sup style="font-size: 0.7em;"><a href="https://en.wikipedia.org/wiki/Wasserstein_metric">1</a></sup></h2>
+<p style="text-align:center">
+<img src="figures/wasserstein.png" width="960" height="540">
+</p>
+<p>The calculated Wasserstein distances reveal how the price distribution evolved over time. In general, most cities show a steady increase in the Wasserstein distances, implying a significant shift in the distribution of prices over the weeks. It is noteworthy that the distances spike notably in Paris, Berlin, and Madrid around mid-April, suggesting a dramatic change in price distribution during this period. The notable spikes observed in the Wasserstein distances for Paris, Berlin, and Madrid, cities relatively close to London, around mid-April could potentially be associated with the Easter holiday period. During this time, a surge in flight search volume is typically observed, possibly reflecting an increase in travel demand. Given their geographical proximity, travellers from London might prefer these cities as their holiday destinations, leading to an increased demand for flights to these destinations. This heightened demand could result in a sharp rise in flight ticket prices, resulting in significant shifts in price distributions, which might be the cause of the spikes observed in our analysis. Therefore, understanding the impact of seasonal holidays and considering related factors such as geographical location can provide us with a more comprehensive perspective on flight ticket pricing patterns.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
