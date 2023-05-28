@@ -3,17 +3,18 @@
 
 
 # 👥 **Team**
-- [Karina Moura](https://github.com/kvmoura). _A stellar project manager!_
-- [Natalia Del Coco](https://github.com/NataliaDelCoco). _She is taking her van to the mountains for a while._
-- [Sara Luxmoore](https://github.com/SaraLuxmoore). _She can be seen doing cool research-related stuff in Italy these days._
+- [Yuhan Liu](https://github.com/Yuhan1224). 
+- [Lena Umphprn](https://github.com/lenaumphprn). 
+- [Jiaming Zhang](https://github.com/knzz716). 
+- [Nikolai Semikhatov](https://github.com/Sevnhutsjr).
 
 # Work Contribution
 | **People** | **Data Collection** | **Data Cleaning** | **Code Quality Check**  | **Data Summary and Visualization** | **Report** |
 |:-----------|:-------------------:|:-----------------:|:-----------------------:|:----------------------------------:|:----------:|
-| Lena |      10%          |      20%        |      25%              |      30%                         |   40%    |
-| Kevin |      30%          |      20%        |      25%              |      40%                         |   10%    |
-| Kathy |      50%          |      20%        |      25%              |      20%                         |   10%    |
-| Nikolai |      10%          |      40%        |      25%              |      10%                         |   40%    |
+| Lena |      10%          |      20%        |      25%              |      30%                         |   25%    |
+| Kevin |      30%          |      20%        |      25%              |      10%                         |   25%    |
+| Kathy |      50%          |      40%        |      25%              |      30%                         |   25%    |
+| Nikolai |      10%          |      20%        |      25%              |      30%                         |   25%    |
 
 # Step 1: Data Collection and Preliminary Cleaning
 
