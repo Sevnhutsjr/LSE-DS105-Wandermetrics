@@ -9,7 +9,7 @@ Your complete guide to a wonderful summer
 <br>
 
 <p style='text-align:center'>
-    <img src="figures/web_flight.jpg" width="960" height="540" />
+    <img src="figures/Wallpapers/web_flight.jpg" width="960" height="540" />
 </p>
 
 ## Our Motivation
