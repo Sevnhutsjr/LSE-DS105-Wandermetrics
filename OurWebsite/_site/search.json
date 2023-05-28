@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "WanderMetrics",
+    "title": "Where Should You Go For Weekend Getaway This Summer?",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Your complete guide to a wonderful summer"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html#our-motivation",
+    "href": "index.html#our-motivation",
+    "title": "Where Should You Go For Weekend Getaway This Summer?",
+    "section": "Our Motivation",
+    "text": "Our Motivation"
+  },
+  {
+    "objectID": "index.html#project-overview",
+    "href": "index.html#project-overview",
+    "title": "Where Should You Go For Weekend Getaway This Summer?",
+    "section": "Project Overview",
+    "text": "Project Overview"
+  },
+  {
+    "objectID": "index.html#our-goal",
+    "href": "index.html#our-goal",
+    "title": "Where Should You Go For Weekend Getaway This Summer?",
+    "section": "Our Goal",
+    "text": "Our Goal"
   }
 ]
