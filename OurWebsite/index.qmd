@@ -2,9 +2,7 @@
 title: "WanderMetrics"
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 <p style='text-align:center'>
     <img src="figures/web_flight.jpg" width="960" height="540" />

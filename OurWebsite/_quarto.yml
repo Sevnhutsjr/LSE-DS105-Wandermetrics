@@ -34,6 +34,10 @@ website:
           - Budapest.qmd
           - Madrid.qmd
           - Athens.qmd
+      
+      - section: "Further Analysis"
+        contents:
+          - Time_Window_Analysis.qmd
 
       - section: "Findings"
         contents:
