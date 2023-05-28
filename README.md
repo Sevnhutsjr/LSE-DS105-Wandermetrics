@@ -9,7 +9,7 @@
 
 # Step 1: Data Collection and Preliminary Cleaning
 
-The first step in our project involves data collection and preliminary data cleaning. We use two notebooks for this process, both located in the **Code** folder.
+The first step in our project involves data collection and preliminary data cleaning. We use two notebooks for this process, both located in the **Data&Outlier_Analysis** folder.
 
 1. [dep&ret_tickets_data.ipynb](https://github.com/Sevnhutsjr/LSE-DS105-Wandermetrics/blob/main/Code/dep%26ret_tickets_data.ipynb): This notebook is used for weekly data collection. It gathers data on both departure and return flight tickets. After the data is collected, we perform an initial cleaning process. This involves selecting the necessary columns and ensuring that the data frames for each city are coherent. This cleaned data provides a comprehensive view of the flight details, including both departure and return flights.[dep&ret_tickets_data](https://github.com/Sevnhutsjr/LSE-DS105-Wandermetrics/tree/main/dep%26ret_flights): Here is the data collected.
 
@@ -33,7 +33,7 @@ In order to find out factors affects weekend flight price, we carried out severa
 
 4.Booking agents analysis：
 
-5.Booking time window analysis:[Booking_time_window.ipynb]()
+5.Booking time window analysis:[Booking_time_window.ipynb](https://github.com/Sevnhutsjr/LSE-DS105-Wandermetrics/blob/main/Visualisations/Booking_time_window.ipynb). This notebook is about the visualisations for booking time window analysis, and we generated the dynamic graphs to show how the price distributions for each city changed over time and used the Wasserstein distance to evaluate hoe similar of the two price distributions for each consecutive dates.
 
 
 
