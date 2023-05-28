@@ -35,10 +35,6 @@ All cities show a right-skewed distribution, where the mean is higher than the m
 |:------------------------------------------------:|--------------------------------------------------|
 | ![Rome](figures/distribution_Rome.png)            |                                                  |
 
-
-
-
-
 Cities like Paris, Madrid, and Berlin have a relatively narrow price distribution. This suggests that the price difference in these cities is smaller, and most prices are concentrated in the middle range.
 Cities like Athens, Lisbon, and Budapest have a relatively wide price distribution. This suggests that these cities have a larger price difference, and there may be some high-end listings. 
 Some interesting points：
@@ -49,9 +45,7 @@ Some interesting points：
 
 - **Price Range:** Athens has the highest mean and median prices, suggesting it's generally more expensive to fly to Athens. On the other hand, Berlin has the lowest mean and median prices, indicating it's generally cheaper to fly to Berlin.
 
-
 Since all cities show a right-skewed distribution, it becomes crucial to analyse the outliers. We aim to determine if the outliers share the same properties across these cities.
-
 
 ## Outlier Analysis
 
@@ -61,7 +55,6 @@ Our analysis identified outliers in flight ticket prices for each city using the
 | ---- | ----- | ------ | ------ | ------ | ---- | -------- | ------ |
 | Outliers | 298 | 68 | 814 | 72 | 205 | 53 | 63 |
 
-
 ### Number of Outliers per Month
 
 <p style='text-align:center'>
@@ -69,7 +62,6 @@ Our analysis identified outliers in flight ticket prices for each city using the
 </p>
 
 In terms of monthly distribution, outliers were most common in June for most cities, except Paris and Berlin, which had the most outliers in September. August had the fewest outliers across all cities.
-
 
 ### Number of Outliers per Carrier
 
@@ -79,23 +71,19 @@ In terms of monthly distribution, outliers were most common in June for most cit
 
 When examining outliers by carrier, British Airways had a significant number of outliers across all cities. For Paris, the majority of outliers were associated with easyJet, while for Madrid, outliers were almost evenly distributed between British Airways, Iberia, and Vueling Airlines.
 
-
 ### Number of Outliers per Departure Airport
 
 <p style='text-align:center'>
     <img src="figures/outliers_airport.png" width="700" height="1000" />
 </p>
 
-
 Regarding departure airports, London Heathrow had the most outliers across all cities, suggesting that flights from this airport are more likely to have extreme prices.
-
 
 These findings suggest that the month of travel, the airline, and the departure airport can significantly influence the likelihood of encountering extreme ticket prices. This information can be valuable for travellers seeking to avoid high costs.
 
+<br>
 
-
-
-
+**We've decided to use the median for our visualisations because the presence of outliers can skew the mean, making it less representative of our data. In such cases, the median provides a more stable measure of central tendency, and so we opt to use it for further visualisations.**
 
 
 
