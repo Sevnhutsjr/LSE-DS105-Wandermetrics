@@ -27,6 +27,7 @@ website:
           
       - section: "Visualisations"
         contents:
+          - instruction.qmd
           - Athens.qmd
           - Berlin.qmd
           - Budapest.qmd
