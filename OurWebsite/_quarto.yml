@@ -27,13 +27,13 @@ website:
           
       - section: "Visualisations"
         contents:
+          - Athens.qmd
           - Berlin.qmd
+          - Budapest.qmd
+          - Lisbon.qmd
+          - Madrid.qmd
           - Paris.qmd
           - Rome.qmd
-          - Lisbon.qmd
-          - Budapest.qmd
-          - Madrid.qmd
-          - Athens.qmd
       
       - section: "Further Analysis"
         contents:
