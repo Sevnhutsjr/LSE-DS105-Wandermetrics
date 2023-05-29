@@ -20,9 +20,8 @@ website:
     style: "docked"
     search: true
     contents:
-      - section: "Data"
-        contents:
-          - Data_Collection.qmd
+      
+      - Data_Collection.qmd
           
           
       - section: "Visualisations"
@@ -36,13 +35,9 @@ website:
           - Paris.qmd
           - Rome.qmd
       
-      - section: "Further Analysis"
-        contents:
-          - Time_Window_Analysis.qmd
+      - Time_Window_Analysis.qmd
 
-      - section: "Findings"
-        contents:
-          - Conclusion.qmd
+      - Conclusion.qmd
           
 
 
