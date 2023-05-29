@@ -6,39 +6,29 @@ title: "Berlin"
 </p>
 
 #### Unleash your wanderlust in Berlin, where you can witness the remnants of the iconic Berlin Wall, stroll along the bustling East Side Gallery, and savour the flavours of the city's beloved currywurst, creating an unforgettable tapestry of experiences.
+<br>
+
+# Price to Berlin by Airline
+
+<table>
+<tr>
+    <td> <img src="figures/prices_flights/berlin_price_average.png" style="width: 500px;"/> </td>
+    <td> <img src="figures/prices_flights/berlin_price_median.png" style="width: 500px;"/> </td>
+</tr>
+<tr>
+    <td colspan="2" style="text-align:center;"> <img src="figures/prices_flights/berlin_price_min.png" style="width: 500px;"/> </td>
+</tr>
+</table>
+
+------------------------------------------------
+
+### Explanation
+
+If you are willing to sacrifice leg room for a cheaper flight ticket, chose Ryanair to fly to Berlin this summer. Not only does it offer on average the cheaper flights, but it presents most of the cheapest flights to Berlin. However, shopping between multiple airlines on outbound and return flights may provide a slightly cheaper option than Ryanair, as seen in week 36.
+
+Flight prices to Berlin are higher towards the end of September due to the high demand caused by the world-famous Oktoberfest celebration, drawing tourists from around the globe to the city.
+
+------------------------------------------------
 
 
-
-
-| Picture 1 | Picture 2 | Picture 3 |
-|:---------:|:---------:|:---------:|
-| ![Description of Picture 1](figures/prices_flights/berlin_price_average.png) | ![Description of Picture 2](figures/prices_flights/berlin_price_median.png) | ![Description of Picture 3](figures/prices_flights/berlin_price_min.png) |
-
-
-<!-- | Picture 1                                        | Picture 2                                        | Picture 3                                        |
-|:------------------------------------------------:|:------------------------------------------------:|:------------------------------------------------:|
-| <img src="figures/prices_flights/berlin_price_average.png" width="450px">   | <img src="figures/prices_flights/berlin_price_median.png" width="450px">   | <img src="figures/prices_flights/berlin_price_min.png" width="450px">   | -->
-
-<!-- 
-| <img src="figures/prices_flights/berlin_price_average.png" width="450px">   | <img src="figures/prices_flights/berlin_price_median.png" width="450px">   
-
-<img src="figures/prices_flights/berlin_price_min.png" width="450px">   | -->
-
-
-<!-- |                      Athens                       |                      Berlin                       |
-|:------------------------------------------------:|:------------------------------------------------:|
-| ![Average](figures/prices_flights/berlin_price_average.png)        | ![Median](figures/prices_flights/berlin_price_median.png)        |
-|                      Athens                       |
-| ![Minimum](figures/prices_flights/berlin_price_min.png)        |  -->
-
-<!-- |     Athens     |     Berlin     |
-|:--------------:|:--------------:|
-| ![Average](figures/prices_flights/berlin_price_average.png) | ![Median](figures/prices_flights/berlin_price_median.png) |
-|     Athens     |                |
-|   ![Minimum](figures/prices_flights/berlin_price_min.png)  | -->
-
-|     Athens     |     Berlin     |
-|:--------------:|:--------------:|
-| ![Average](figures/prices_flights/berlin_price_average.png) | ![Median](figures/prices_flights/berlin_price_median.png) |
-|     Athens     |                |
-|                | ![Minimum](figures/prices_flights/berlin_price_min.png) |
+# Airport Analysis
