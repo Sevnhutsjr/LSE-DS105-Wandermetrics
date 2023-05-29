@@ -6,3 +6,31 @@ title: "Paris"
 </p>
 
 #### Embark on a romantic voyage to Paris, where the Eiffel Tower stands tall, the Louvre holds treasures untold, and the charming streets of Montmartre beckon, offering a captivating blend of art, history, and gastronomy that will ignite your senses and leave an indelible mark on your heart.
+
+# Price to Paris by Airline
+
+<table>
+<tr>
+    <td> <img src="figures/prices_flights/paris_price_average.png" style="width: 500px;"/> </td>
+    <td> <img src="figures/prices_flights/paris_price_median.png" style="width: 500px;"/> </td>
+</tr>
+<tr>
+    <td colspan="2" style="text-align:center;"> <img src="figures/prices_flights/paris_price_min.png" style="width: 500px;"/> </td>
+</tr>
+</table>
+
+------------------------------------------------
+
+### Explanation
+
+When flying to Paris, budget airlines such as easyJet and Vueling are your best friend.
+EasyJet allows you to be highly flexible and offers double the amount of flights Air France does!
+
+August is the best time to fly to Paris as the flights are on average significantly cheaper.
+Knowing this information, you will think twice about using the Eurostar, as Eurostar return tickets are much more expensive averaging 250 pounds.
+
+
+------------------------------------------------
+
+
+# Airport Analysis
