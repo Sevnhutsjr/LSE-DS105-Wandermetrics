@@ -4,3 +4,5 @@ title: "Paris"
 <p style='text-align:center'>
     <img src="figures/Wallpapers/paris.jpg" width="960" height="540" />
 </p>
+
+#### Embark on a romantic voyage to Paris, where the Eiffel Tower stands tall, the Louvre holds treasures untold, and the charming streets of Montmartre beckon, offering a captivating blend of art, history, and gastronomy that will ignite your senses and leave an indelible mark on your heart.

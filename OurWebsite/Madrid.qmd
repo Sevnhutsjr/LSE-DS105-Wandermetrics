@@ -4,3 +4,5 @@ title: "Madrid"
 <p style='text-align:center'>
     <img src="figures/Wallpapers/madrid.jpg" width="960" height="540" />
 </p>
+
+#### Uncover the vibrant soul of Madrid, where you can wander through the grandeur of the Royal Palace, revel in the lively atmosphere of the bustling Puerta del Sol, and savour the tantalizing flavours of authentic Spanish cuisine, igniting a passion for the dynamic energy and cultural richness of this captivating city.

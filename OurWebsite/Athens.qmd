@@ -4,3 +4,5 @@ title: "Athens"
 <p style='text-align:center'>
     <img src="figures/Wallpapers/athens.jpg" width="960" height="414" />
 </p>
+
+#### Embark on an extraordinary odyssey to Athens, where ancient marvels like the Acropolis and Parthenon await, while the lively Plaka neighborhood invites you to indulge in traditional Greek cuisine and immerse yourself in the timeless allure of this historic metropolis.

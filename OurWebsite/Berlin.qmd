@@ -4,3 +4,41 @@ title: "Berlin"
 <p style='text-align:center'>
     <img src="figures/Wallpapers/berlin.jpg" width="960" height="530" />
 </p>
+
+#### Unleash your wanderlust in Berlin, where you can witness the remnants of the iconic Berlin Wall, stroll along the bustling East Side Gallery, and savour the flavours of the city's beloved currywurst, creating an unforgettable tapestry of experiences.
+
+
+
+
+| Picture 1 | Picture 2 | Picture 3 |
+|:---------:|:---------:|:---------:|
+| ![Description of Picture 1](figures/prices_flights/berlin_price_average.png) | ![Description of Picture 2](figures/prices_flights/berlin_price_median.png) | ![Description of Picture 3](figures/prices_flights/berlin_price_min.png) |
+
+
+<!-- | Picture 1                                        | Picture 2                                        | Picture 3                                        |
+|:------------------------------------------------:|:------------------------------------------------:|:------------------------------------------------:|
+| <img src="figures/prices_flights/berlin_price_average.png" width="450px">   | <img src="figures/prices_flights/berlin_price_median.png" width="450px">   | <img src="figures/prices_flights/berlin_price_min.png" width="450px">   | -->
+
+<!-- 
+| <img src="figures/prices_flights/berlin_price_average.png" width="450px">   | <img src="figures/prices_flights/berlin_price_median.png" width="450px">   
+
+<img src="figures/prices_flights/berlin_price_min.png" width="450px">   | -->
+
+
+<!-- |                      Athens                       |                      Berlin                       |
+|:------------------------------------------------:|:------------------------------------------------:|
+| ![Average](figures/prices_flights/berlin_price_average.png)        | ![Median](figures/prices_flights/berlin_price_median.png)        |
+|                      Athens                       |
+| ![Minimum](figures/prices_flights/berlin_price_min.png)        |  -->
+
+<!-- |     Athens     |     Berlin     |
+|:--------------:|:--------------:|
+| ![Average](figures/prices_flights/berlin_price_average.png) | ![Median](figures/prices_flights/berlin_price_median.png) |
+|     Athens     |                |
+|   ![Minimum](figures/prices_flights/berlin_price_min.png)  | -->
+
+|     Athens     |     Berlin     |
+|:--------------:|:--------------:|
+| ![Average](figures/prices_flights/berlin_price_average.png) | ![Median](figures/prices_flights/berlin_price_median.png) |
+|     Athens     |                |
+|                | ![Minimum](figures/prices_flights/berlin_price_min.png) |

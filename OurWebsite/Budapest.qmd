@@ -4,3 +4,5 @@ title: "Budapest"
 <p style='text-align:center'>
     <img src="figures/Wallpapers/budapest.jpg" width="960" height="540" />
 </p>
+
+#### Indulge in the captivating charm of Budapest, where the regal beauty of the Hungarian Parliament Building shines alongside the iconic Chain Bridge, while the thermal baths of Széchenyi and the vibrant ruin bars of the Jewish Quarter offer a unique blend of relaxation and exhilaration, weaving an unforgettable tapestry of experiences in this mesmerizing city on the Danube.
