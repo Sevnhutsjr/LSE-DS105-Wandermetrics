@@ -84,7 +84,3 @@ These findings suggest that the month of travel, the airline, and the departure 
 <br>
 
 **We've decided to use the median for our visualisations because the presence of outliers can skew the mean, making it less representative of our data. In such cases, the median provides a more stable measure of central tendency, and so we opt to use it for further visualisations.**
-
-
-
-
