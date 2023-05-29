@@ -6,3 +6,27 @@ title: "Lisbon"
 </p>
 
 #### Embark on an enchanting journey to Lisbon, where the colourful mosaic streets of Alfama lead to the breathtaking viewpoints of Miradouro da Senhora do Monte, while the melancholic sounds of fado music fill the air and the aroma of freshly baked pastéis de nata tantalizes your senses, inviting you to immerse yourself in the captivating blend of history, culture, and culinary delights that make Lisbon a truly unforgettable destination. 
+<br>
+
+# Departure Time Analysis
+
+# Departure Airport Analysis
+
+# Price to Madrid by Airline
+
+<table>
+<tr>
+    <td> <img src="figures/prices_flights/lisbon_price_average.png" style="width: 500px;"/> </td>
+    <td> <img src="figures/prices_flights/lisbon_price_median.png" style="width: 500px;"/> </td>
+</tr>
+<tr>
+    <td colspan="2" style="text-align:center;"> <img src="figures/prices_flights/lisbon_price_min.png" style="width: 500px;"/> </td>
+</tr>
+</table>
+
+------------------------------------------------
+
+### Explanation
+
+------------------------------------------------
+
