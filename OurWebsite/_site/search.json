@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Where Should You Go For Weekend Getaway This Summer?",
     "section": "",
-    "text": "Your complete guide to a wonderful summer"
+    "text": "Your complete guide to a wonderful summer — by WanderMetrics"
   },
   {
     "objectID": "about.html",
@@ -96,5 +96,19 @@
     "title": "Where Should You Go For Weekend Getaway This Summer?",
     "section": "Our Goal",
     "text": "Our Goal"
+  },
+  {
+    "objectID": "Conclusion.html",
+    "href": "Conclusion.html",
+    "title": "Conclusion",
+    "section": "",
+    "text": "What did we find out?"
+  },
+  {
+    "objectID": "Conclusion.html#what-did-we-find-out",
+    "href": "Conclusion.html#what-did-we-find-out",
+    "title": "Conclusion",
+    "section": "What did we find out?",
+    "text": "What did we find out?"
   }
 ]
