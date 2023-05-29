@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>WanderMetrics - Data Collection</title>
+<title>WanderMetrics - Data</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -114,7 +114,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Data_Collection.html">Process</a></li><li class="breadcrumb-item"><a href="./Data_Collection.html">Data Collection</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Data_Collection.html">Data</a></li><li class="breadcrumb-item"><a href="./Data_Collection.html">Data</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -137,7 +137,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
- <span class="menu-text">Process</span></a>
+ <span class="menu-text">Data</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -146,7 +146,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./Data_Collection.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Data Collection</span></a>
+ <span class="menu-text">Data</span></a>
   </div>
 </li>
       </ul>
@@ -244,14 +244,30 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#data-collection-challenges" id="toc-data-collection-challenges" class="nav-link active" data-scroll-target="#data-collection-challenges">Data Collection Challenges</a></li>
+  <li><a href="#data-overview" id="toc-data-overview" class="nav-link" data-scroll-target="#data-overview">Data Overview</a>
+  <ul class="collapse">
+  <li><a href="#data-distribution" id="toc-data-distribution" class="nav-link" data-scroll-target="#data-distribution">Data distribution</a></li>
+  <li><a href="#outlier-analysis" id="toc-outlier-analysis" class="nav-link" data-scroll-target="#outlier-analysis">Outlier Analysis</a>
+  <ul class="collapse">
+  <li><a href="#number-of-outliers-per-month" id="toc-number-of-outliers-per-month" class="nav-link" data-scroll-target="#number-of-outliers-per-month">Number of Outliers per Month</a></li>
+  <li><a href="#number-of-outliers-per-carrier" id="toc-number-of-outliers-per-carrier" class="nav-link" data-scroll-target="#number-of-outliers-per-carrier">Number of Outliers per Carrier</a></li>
+  <li><a href="#number-of-outliers-per-departure-airport" id="toc-number-of-outliers-per-departure-airport" class="nav-link" data-scroll-target="#number-of-outliers-per-departure-airport">Number of Outliers per Departure Airport</a></li>
+  </ul></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Data Collection</h1>
+<h1 class="title">Data</h1>
 </div>
 
 
@@ -266,8 +282,161 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<section id="data-collection-challenges" class="level1">
+<h1>Data Collection Challenges</h1>
+<ol type="1">
+<li><strong>Volatility of Flight Ticket Prices</strong>: The prices of flight tickets are influenced by numerous factors, requiring a careful approach to analysis.</li>
+<li><strong>Lack of Historical Data</strong>: We lacked access to historical data, which would have allowed us to identify patterns.</li>
+<li><strong>Data Complexity</strong>: The vast amount of data, with 412 variables, required a complex process to identify the 30 most relevant variables for our project.</li>
+<li><strong>Data Volume</strong>: The sheer volume of data collected for booking time window analysis was immense, as we collected data weekly for seven weeks for flights from London to seven cities.</li>
+</ol>
+</section>
+<section id="data-overview" class="level1">
+<h1>Data Overview</h1>
+<p>The data includes various details such as departure and arrival times, airports, airlines, booking agents, flight duration, ticket prices, etc..</p>
+<section id="data-distribution" class="level2">
+<h2 class="anchored" data-anchor-id="data-distribution">Data distribution</h2>
+<p style="text-align:center">
+<img src="figures/distribution.png" width="960" height="540">
+</p>
+<p>All cities show a right-skewed distribution, where the mean is higher than the median, indicating that there are some higher-priced tickets pulling the mean up. This could be due to factors like premium flights or higher prices during peak travel times.</p>
+<table class="table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Athens</th>
+<th style="text-align: center;">Berlin</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><img src="figures/distribution_Athens.png" class="img-fluid" alt="Athens"></td>
+<td style="text-align: center;"><img src="figures/distribution_Berlin.png" class="img-fluid" alt="Berlin"></td>
+</tr>
+</tbody>
+</table>
+<table class="table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Budapest</th>
+<th style="text-align: center;">Lisbon</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><img src="figures/distribution_Budapest.png" class="img-fluid" alt="Budapest"></td>
+<td style="text-align: center;"><img src="figures/distribution_Lisbon.png" class="img-fluid" alt="Lisbon"></td>
+</tr>
+</tbody>
+</table>
+<table class="table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Madrid</th>
+<th style="text-align: center;">Paris</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><img src="figures/distribution_Madrid.png" class="img-fluid" alt="Madrid"></td>
+<td style="text-align: center;"><img src="figures/distribution_Paris.png" class="img-fluid" alt="Paris"></td>
+</tr>
+</tbody>
+</table>
+<table class="table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Rome</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><img src="figures/distribution_Rome.png" class="img-fluid" alt="Rome"></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Cities like Paris, Madrid, and Berlin have a relatively narrow price distribution. This suggests that the price difference in these cities is smaller, and most prices are concentrated in the middle range. Cities like Athens, Lisbon, and Budapest have a relatively wide price distribution. This suggests that these cities have a larger price difference, and there may be some high-end listings. Some interesting points：</p>
+<ul>
+<li><p><strong>Data Points:</strong> Madrid has the highest number of data points, which could suggest that Madrid was a more popular destination during the data collection period. On the other hand, Budapest has the fewest data points, which could suggest fewer flight options or less popularity.</p></li>
+<li><p><strong>Price Variability:</strong> The standard deviation, which measures the variability of prices, is highest for Athens and lowest for Berlin. This could mean that prices for flights to Athens are more unpredictable, while prices for flights to Berlin are more stable</p></li>
+<li><p><strong>Price Range:</strong> Athens has the highest mean and median prices, suggesting it’s generally more expensive to fly to Athens. On the other hand, Berlin has the lowest mean and median prices, indicating it’s generally cheaper to fly to Berlin.</p></li>
+</ul>
+<p>Since all cities show a right-skewed distribution, it becomes crucial to analyse the outliers. We aim to determine if the outliers share the same properties across these cities.</p>
+</section>
+<section id="outlier-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="outlier-analysis">Outlier Analysis</h2>
+<p>Our analysis identified outliers in flight ticket prices for each city using the Interquartile Range (IQR) method. The number of outliers varied across cities, with Madrid having the most (814) and Budapest the least (53).</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th>City</th>
+<th>Paris</th>
+<th>Berlin</th>
+<th>Madrid</th>
+<th>Lisbon</th>
+<th>Rome</th>
+<th>Budapest</th>
+<th>Athens</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Outliers</td>
+<td>298</td>
+<td>68</td>
+<td>814</td>
+<td>72</td>
+<td>205</td>
+<td>53</td>
+<td>63</td>
+</tr>
+</tbody>
+</table>
+<section id="number-of-outliers-per-month" class="level3">
+<h3 class="anchored" data-anchor-id="number-of-outliers-per-month">Number of Outliers per Month</h3>
+<p style="text-align:center">
+<img src="figures/outliers_month.png" width="700" height="1000">
+</p>
+<p>In terms of monthly distribution, outliers were most common in June for most cities, except Paris and Berlin, which had the most outliers in September. August had the fewest outliers across all cities.</p>
+</section>
+<section id="number-of-outliers-per-carrier" class="level3">
+<h3 class="anchored" data-anchor-id="number-of-outliers-per-carrier">Number of Outliers per Carrier</h3>
+<p style="text-align:center">
+<img src="figures/outliers_carrier.png" width="700" height="1000">
+</p>
+<p>When examining outliers by carrier, British Airways had a significant number of outliers across all cities. For Paris, the majority of outliers were associated with easyJet, while for Madrid, outliers were almost evenly distributed between British Airways, Iberia, and Vueling Airlines.</p>
+</section>
+<section id="number-of-outliers-per-departure-airport" class="level3">
+<h3 class="anchored" data-anchor-id="number-of-outliers-per-departure-airport">Number of Outliers per Departure Airport</h3>
+<p style="text-align:center">
+<img src="figures/outliers_airport.png" width="700" height="1000">
+</p>
+<p>Regarding departure airports, London Heathrow had the most outliers across all cities, suggesting that flights from this airport are more likely to have extreme prices.</p>
+<p>These findings suggest that the month of travel, the airline, and the departure airport can significantly influence the likelihood of encountering extreme ticket prices. This information can be valuable for travellers seeking to avoid high costs.</p>
+<p><br></p>
+<p><strong>We’ve decided to use the median for our visualisations because the presence of outliers can skew the mean, making it less representative of our data. In such cases, the median provides a more stable measure of central tendency, and so we opt to use it for further visualisations.</strong></p>
 
 
+</section>
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

@@ -20,7 +20,7 @@ website:
     style: "docked"
     search: true
     contents:
-      - section: "Process"
+      - section: "Data"
         contents:
           - Data_Collection.qmd
           

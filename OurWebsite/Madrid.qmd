@@ -1,3 +1,6 @@
 ---
 title: "Madrid"
 ---
+<p style='text-align:center'>
+    <img src="figures/Wallpapers/madrid.jpg" width="960" height="540" />
+</p>

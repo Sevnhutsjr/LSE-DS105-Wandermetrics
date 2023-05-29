@@ -1,3 +1,6 @@
 ---
 title: "Budapest"
 ---
+<p style='text-align:center'>
+    <img src="figures/Wallpapers/budapest.jpg" width="960" height="540" />
+</p>
