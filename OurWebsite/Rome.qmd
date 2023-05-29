@@ -2,5 +2,5 @@
 title: "Rome"
 ---
 <p style='text-align:center'>
-    <img src="figures/Wallpapers/rome.jpg" width="960" height="540" />
+    <img src="figures/Wallpapers/rome.jpg" width="960" height="640" />
 </p>
