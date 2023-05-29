@@ -6,3 +6,53 @@ title: "Rome"
 </p>
 
 #### Venture on an enchanting journey to Rome, where ancient wonders like the Colosseum and Vatican City transport you back in time, while the romantic allure of the Trevi Fountain and the mouth-watering delights of Italian cuisine create a tapestry of experiences that will leave you forever captivated by the eternal city.
+
+------------------------------------------------
+
+<br>
+
+# Price to Rome by Airline
+
+<table>
+<tr>
+    <td> <img src="figures/prices_flights/rome_average_price.png" style="width: 500px;"/> </td>
+    <td> <img src="figures/prices_flights/rome_price_median.png" style="width: 500px;"/> </td>
+</tr>
+<tr>
+    <td colspan="2" style="text-align:center;"> <img src="figures/prices_flights/rome_price_min.png" style="width: 500px;"/> </td>
+</tr>
+</table>
+
+### Explanation
+
+------------------------------------------------
+
+<br>
+
+# Price to Rome by Departure Time
+
+<p style='text-align:center'>
+    <img src="figures/time/rome.jpeg"/>
+</p>
+
+
+### Explanation
+
+The cheapest time to fly would be at the very end of the day at 21.00; other than that prices seem to fluctuate randomly.
+
+------------------------------------------------
+
+<br>
+
+# Price to Rome by Departure Airport
+
+<p style='text-align:center'>
+    <img src="figures/airport/rome.jpeg" width="960"/>
+</p>
+
+
+### Explanation
+
+For all airports, prices are significantly lower to fly in September. Although Stansted has the lowest median prices, you can find your cheapest deals at Gatwick with significantly lower minimum prices.
+
+-----------------------------------------------

@@ -8,10 +8,6 @@ title: "Lisbon"
 #### Embark on an enchanting journey to Lisbon, where the colourful mosaic streets of Alfama lead to the breathtaking viewpoints of Miradouro da Senhora do Monte, while the melancholic sounds of fado music fill the air and the aroma of freshly baked pastéis de nata tantalizes your senses, inviting you to immerse yourself in the captivating blend of history, culture, and culinary delights that make Lisbon a truly unforgettable destination. 
 <br>
 
-# Price to Lison by Departure Time
-
-# Price to Lison by Departure Airport
-
 # Price to Lison by Airline
 
 <table>
@@ -24,9 +20,33 @@ title: "Lisbon"
 </tr>
 </table>
 
+### Explanation
+
 ------------------------------------------------
 
+# Price to Lisbon by Departure Time
+
+<p style='text-align:center'>
+    <img src="figures/time/lisbon.jpeg"/>
+</p>
+
+
 ### Explanation
+
+Although there is a lot of fluctuation throughout the day, it would be safe to book for flights between 16.00-19.30 where prices are generally lowest.
+
+------------------------------------------------
+
+# Price to Lisbon by Departure Airport
+
+<p style='text-align:center'>
+    <img src="figures/airport/lisbon.jpeg" width="960"/>
+</p>
+
+
+### Explanation
+
+Despite some ordinal fluctuations, the general pricing in flying to Lisbon is that either departing from Luton or Stansted offer the lowest price. There is also a fairly large difference in the minimum price of each airport such that you can fly from Luton in July peak season at the same price (or even lower) as from Heathrow in September approaching low-season.
 
 ------------------------------------------------
 

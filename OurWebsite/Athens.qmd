@@ -6,3 +6,53 @@ title: "Athens"
 </p>
 
 #### Embark on an extraordinary odyssey to Athens, where ancient marvels like the Acropolis and Parthenon await, while the lively Plaka neighborhood invites you to indulge in traditional Greek cuisine and immerse yourself in the timeless allure of this historic metropolis.
+
+------------------------------------------------
+
+<br>
+
+# Price to Athens by Airline
+
+<table>
+<tr>
+    <td> <img src="figures/prices_flights/athens_price_average.png" style="width: 500px;"/> </td>
+    <td> <img src="figures/prices_flights/athens_price_median.png" style="width: 500px;"/> </td>
+</tr>
+<tr>
+    <td colspan="2" style="text-align:center;"> <img src="figures/prices_flights/athens_price_minimum.png" style="width: 500px;"/> </td>
+</tr>
+</table>
+
+### Explanation
+
+------------------------------------------------
+
+<br>
+
+# Price to Athens by Departure Time
+
+<p style='text-align:center'>
+    <img src="figures/time/athens.jpeg"/>
+</p>
+
+
+### Explanation
+
+In order to book cheaper flights, it is best to avoid any time between 09.00-12.00 as prices are much lower in the early morning and afternoon onwards.
+
+------------------------------------------------
+
+<br>
+
+# Price to Athens by Departure Airport
+
+<p style='text-align:center'>
+    <img src="figures/airport/athens.jpeg" width="960"/>
+</p>
+
+
+### Explanation
+
+By looking at minimum prices, an obvious choice for budget travellers would be to depart from London Gatwick in all summer months. Even though all other airports’ minimum prices significantly peak in July, Gatwick still offers cheap flights throughout. 
+
+------------------------------------------------

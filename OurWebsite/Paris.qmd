@@ -7,6 +7,10 @@ title: "Paris"
 
 #### Embark on a romantic voyage to Paris, where the Eiffel Tower stands tall, the Louvre holds treasures untold, and the charming streets of Montmartre beckon, offering a captivating blend of art, history, and gastronomy that will ignite your senses and leave an indelible mark on your heart.
 
+------------------------------------------------
+
+<br>
+
 # Price to Paris by Airline
 
 <table>
@@ -19,18 +23,36 @@ title: "Paris"
 </tr>
 </table>
 
+### Explanation
+
 ------------------------------------------------
+
+<br>
+
+# Price to Paris by Departure Time
+
+<p style='text-align:center'>
+    <img src="figures/time/paris.jpeg"/>
+</p>
+
 
 ### Explanation
 
-When flying to Paris, budget airlines such as easyJet and Vueling are your best friend.
-EasyJet allows you to be highly flexible and offers double the amount of flights Air France does!
-
-August is the best time to fly to Paris as the flights are on average significantly cheaper.
-Knowing this information, you will think twice about using the Eurostar, as Eurostar return tickets are much more expensive averaging 250 pounds.
-
+We see a lot of fluctuation in prices throughout the day; regardless, prices seem to be considerably high between 09.00-12.00 which may be best to avoid for budget travellers
 
 ------------------------------------------------
 
+<br>
 
-# Airport Analysis
+# Price to Paris by Departure Airport
+
+<p style='text-align:center'>
+    <img src="figures/airport/paris.jpeg" width="960"/>
+</p>
+
+
+### Explanation
+
+London Heathrow has significantly higher prices than Luton and Gatwick, both median and minimum, throughout the summer– more than double the median price each month! An unexpected result is the spike for Heathrow’s median price in September which may be attributable to ….
+
+------------------------------------------------

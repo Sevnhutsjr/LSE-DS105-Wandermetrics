@@ -6,3 +6,53 @@ title: "Budapest"
 </p>
 
 #### Indulge in the captivating charm of Budapest, where the regal beauty of the Hungarian Parliament Building shines alongside the iconic Chain Bridge, while the thermal baths of Széchenyi and the vibrant ruin bars of the Jewish Quarter offer a unique blend of relaxation and exhilaration, weaving an unforgettable tapestry of experiences in this mesmerizing city on the Danube.
+
+------------------------------------------------
+
+<br>
+
+# Price to Budapest by Airline
+
+<table>
+<tr>
+    <td> <img src="figures/prices_flights/budapest_price_average.png" style="width: 500px;"/> </td>
+    <td> <img src="figures/prices_flights/budapest_price_median.png" style="width: 500px;"/> </td>
+</tr>
+<tr>
+    <td colspan="2" style="text-align:center;"> <img src="figures/prices_flights/budapest_price_min.png" style="width: 500px;"/> </td>
+</tr>
+</table>
+
+### Explanation
+
+------------------------------------------------
+
+<br>
+
+# Price to Budapest by Departure Time
+
+<p style='text-align:center'>
+    <img src="figures/time/budapest.jpeg"/>
+</p>
+
+
+### Explanation
+
+Peak hours are generally between 09.00-13.30 and prices decrease throughout to a minimum towards the end of the day at 18.30.
+
+------------------------------------------------
+
+<br>
+
+# Price to Budapest by Departure Airport
+
+<p style='text-align:center'>
+    <img src="figures/airport/budapest.jpeg" width="960"/>
+</p>
+
+
+### Explanation
+
+Median prices departing from Heathrow are considerably higher than all other airports throughout, yet its minimum prices in June and July are much lower than flying from Gatwick. This contrast may be due to a wide range of flight options from Heathrow. However, it also suggests that there are limited availabilities for cheaper flights relative to more expensive options. Budget flyers, book your flights before they fill up– reference our booking time window analysis to optimise your choices even further!
+
+------------------------------------------------

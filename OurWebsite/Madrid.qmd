@@ -6,11 +6,10 @@ title: "Madrid"
 </p>
 
 #### Uncover the vibrant soul of Madrid, where you can wander through the grandeur of the Royal Palace, revel in the lively atmosphere of the bustling Puerta del Sol, and savour the tantalizing flavours of authentic Spanish cuisine, igniting a passion for the dynamic energy and cultural richness of this captivating city.
+
+------------------------------------------------
+
 <br>
-
-# Departure Time Analysis
-
-# Departure Airport Analysis
 
 # Price to Madrid by Airline
 
@@ -24,9 +23,37 @@ title: "Madrid"
 </tr>
 </table>
 
+### Explanation
+
 ------------------------------------------------
 
+<br>
+
+# Price to Madrid by Departure Time
+
+<p style='text-align:center'>
+    <img src="figures/time/madrid.jpeg"/>
+</p>
+
+
 ### Explanation
+
+Because of the random fluctuation, it is difficult to conclude whether a specific time window is likely to have lower prices than any other.
+
+------------------------------------------------
+
+<br>
+
+# Price to Madrid by Departure Airport
+
+<p style='text-align:center'>
+    <img src="figures/airport/madrid.jpeg" width="960"/>
+</p>
+
+
+### Explanation
+
+Flight prices from London airports to Madrid are fairly consistent as we see median prices peak in July and lowest in September. It is interesting to see the large variability in minimum prices from Heathrow compared to Stansted where prices are relatively stable which can reflect types of carrier providers or consumer behaviours.
 
 ------------------------------------------------
 
