@@ -18,7 +18,7 @@
     "href": "Time_Window_Analysis.html",
     "title": "Time Window Analysis",
     "section": "",
-    "text": "From the dynamic graphs above we can see that, in terms of the distribution of prices across the seven time windows, there is a general trend of prices increasing in all cities. This is evidenced by the rise in the median and quartile values across successive weeks. However, there are notable differences in the degree of increase among cities. For instance, cities like Madrid and Budapest showed considerable increase in prices, while the price rise in Paris and Berlin was more modest.Regardless of these variations, Athens consistently had the highest prices across all time windows."
+    "text": "From the dynamic graphs above we can see that, in terms of the distribution of prices across the seven time windows, there is a general trend of prices increasing in all cities. This is evidenced by the rise in the median and quartile values across successive weeks. However, there are notable differences in the degree of increase among cities. For instance, cities like Madrid and Budapest showed considerable increase in prices, while the price rise in Paris and Berlin was more modest.Regardless of these variations, Athens consistently had the highest prices across all time windows.\n\n\n\n\n\n\nThe calculated Wasserstein distances reveal how the price distribution evolved over time. In general, most cities show a steady increase in the Wasserstein distances, implying a significant shift in the distribution of prices over the weeks. It is noteworthy that the distances spike notably in Paris, Berlin, and Madrid around mid-April, suggesting a dramatic change in price distribution during this period. The notable spikes observed in the Wasserstein distances for Paris, Berlin, and Madrid, cities relatively close to London, around mid-April could potentially be associated with the Easter holiday period. During this time, a surge in flight search volume is typically observed, possibly reflecting an increase in travel demand. Given their geographical proximity, travellers from London might prefer these cities as their holiday destinations, leading to an increased demand for flights to these destinations. This heightened demand could result in a sharp rise in flight ticket prices, resulting in significant shifts in price distributions, which might be the cause of the spikes observed in our analysis. Therefore, understanding the impact of seasonal holidays and considering related factors such as geographical location can provide us with a more comprehensive perspective on flight ticket pricing patterns."
   },
   {
     "objectID": "Time_Window_Analysis.html#how-the-price-distributions-change-over-time",
@@ -38,8 +38,8 @@
     "objectID": "Time_Window_Analysis.html#wasserstein-distances1",
     "href": "Time_Window_Analysis.html#wasserstein-distances1",
     "title": "Time Window Analysis",
-    "section": "Wasserstein Distances1",
-    "text": "Wasserstein Distances1\n\n\n\nThe calculated Wasserstein distances reveal how the price distribution evolved over time. In general, most cities show a steady increase in the Wasserstein distances, implying a significant shift in the distribution of prices over the weeks. It is noteworthy that the distances spike notably in Paris, Berlin, and Madrid around mid-April, suggesting a dramatic change in price distribution during this period. The notable spikes observed in the Wasserstein distances for Paris, Berlin, and Madrid, cities relatively close to London, around mid-April could potentially be associated with the Easter holiday period. During this time, a surge in flight search volume is typically observed, possibly reflecting an increase in travel demand. Given their geographical proximity, travellers from London might prefer these cities as their holiday destinations, leading to an increased demand for flights to these destinations. This heightened demand could result in a sharp rise in flight ticket prices, resulting in significant shifts in price distributions, which might be the cause of the spikes observed in our analysis. Therefore, understanding the impact of seasonal holidays and considering related factors such as geographical location can provide us with a more comprehensive perspective on flight ticket pricing patterns."
+    "section": "",
+    "text": "The calculated Wasserstein distances reveal how the price distribution evolved over time. In general, most cities show a steady increase in the Wasserstein distances, implying a significant shift in the distribution of prices over the weeks. It is noteworthy that the distances spike notably in Paris, Berlin, and Madrid around mid-April, suggesting a dramatic change in price distribution during this period. The notable spikes observed in the Wasserstein distances for Paris, Berlin, and Madrid, cities relatively close to London, around mid-April could potentially be associated with the Easter holiday period. During this time, a surge in flight search volume is typically observed, possibly reflecting an increase in travel demand. Given their geographical proximity, travellers from London might prefer these cities as their holiday destinations, leading to an increased demand for flights to these destinations. This heightened demand could result in a sharp rise in flight ticket prices, resulting in significant shifts in price distributions, which might be the cause of the spikes observed in our analysis. Therefore, understanding the impact of seasonal holidays and considering related factors such as geographical location can provide us with a more comprehensive perspective on flight ticket pricing patterns."
   },
   {
     "objectID": "Data_Collection.html",
@@ -180,5 +180,47 @@
     "title": "Lisbon",
     "section": "",
     "text": "Embark on an enchanting journey to Lisbon, where the colourful mosaic streets of Alfama lead to the breathtaking viewpoints of Miradouro da Senhora do Monte, while the melancholic sounds of fado music fill the air and the aroma of freshly baked pastéis de nata tantalizes your senses, inviting you to immerse yourself in the captivating blend of history, culture, and culinary delights that make Lisbon a truly unforgettable destination.\n\n\n\nPrice to Lison by Airline\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExplanation\nFlight price to Lisbon significantly decreases as the summer comes to an end. Budget airlines such as Wizz Air and easyJet on average offer cheaper prices, but when analysing the minimum price of different airlines, British Airways and other airlines can be found to have tickets just as cheap. Here mixing airlines will save money and help with flexibility!\n\n\n\n\nPrice to Lisbon by Departure Time\n\n\n\n\nExplanation\nAlthough there is a lot of fluctuation throughout the day, it would be safe to book for flights between 16.00-19.30 where prices are generally lowest.\n\n\n\n\nPrice to Lisbon by Departure Airport\n\n\n\n\nExplanation\nDespite some ordinal fluctuations, the general pricing in flying to Lisbon is that either departing from Luton or Stansted offer the lowest price. There is also a fairly large difference in the minimum price of each airport such that you can fly from Luton in July peak season at the same price (or even lower) as from Heathrow in September approaching low-season."
+  },
+  {
+    "objectID": "Time_Window_Analysis.html#how-the-number-of-flights-over-time",
+    "href": "Time_Window_Analysis.html#how-the-number-of-flights-over-time",
+    "title": "Time Window Analysis",
+    "section": "How the Number of Flights Over Time",
+    "text": "How the Number of Flights Over Time\n\n\n\n\n\n\n\nAthens\nBerlin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBudapest\nLisbon\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMadrid\nParis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRome"
+  },
+  {
+    "objectID": "Conclusion.html#what-you-need-to-know",
+    "href": "Conclusion.html#what-you-need-to-know",
+    "title": "Conclusion",
+    "section": "What you need to know?",
+    "text": "What you need to know?\nIn conclusion, the “ideal weekend getaway” depends on your personal preferences. But we have some suggestions😆:"
+  },
+  {
+    "objectID": "Conclusion.html#price-and-flexibility",
+    "href": "Conclusion.html#price-and-flexibility",
+    "title": "Conclusion",
+    "section": "Price and Flexibility",
+    "text": "Price and Flexibility\n\nIf your main priority is flexibility, then Madrid offers an insanely flexible weekend getaway with over 600 flight combinations to choose from weekly.\nIf you are looking for a budget getaway this summer, overall the months of May and September pose to be the cheaper option.\nYour ideal choice for a budget holiday would be to Berlin in May/June or September to Lisbon or Madrid, with the cheaper tickets costing as low as 50 pound.\nIf you aren’t set with dates, try SKY express to Athens, who consistently offer lower prices than their competitors, though you may have to sacrifice flexibility, as they offer only one flight a day!"
+  },
+  {
+    "objectID": "Conclusion.html#booking-time-window",
+    "href": "Conclusion.html#booking-time-window",
+    "title": "Conclusion",
+    "section": "Booking Time Window",
+    "text": "Booking Time Window\n\nBook earlier as tickets become more expensive closer to the flight date.\nHowever if this is a last minute decision, Paris and Berlin are your best bet and avoid Madrid and Budapest!\nIf you are late, don’t worry about your flight being fully booked as closer to the date more flight options become available."
+  },
+  {
+    "objectID": "Conclusion.html#departure-airport",
+    "href": "Conclusion.html#departure-airport",
+    "title": "Conclusion",
+    "section": "Departure Airport",
+    "text": "Departure Airport\n\nLondon Heathrow Airport is the most expensive departure airport.\nSo if you’re on a budget we suggest you look at Gatwick and Stansted which are generally the cheaper option."
+  },
+  {
+    "objectID": "Conclusion.html#departure-time",
+    "href": "Conclusion.html#departure-time",
+    "title": "Conclusion",
+    "section": "Departure Time",
+    "text": "Departure Time\n\nMedian prices for flight times are inconsistent as they constantly fluctuate throughout the day.\nLate night/early morning flights doesn’t guarantee cheaper tickets.\nFor Berlin, departing between 08.00 and 13.00 will cost more.\n\n\n\nNow go pack your bags, you’re ready to go! 🏝"
   }
 ]

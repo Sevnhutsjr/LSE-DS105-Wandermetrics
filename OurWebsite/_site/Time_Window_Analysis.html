@@ -138,7 +138,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./Data_Collection.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">How Our Data Looks Like and Some EDA</span></a>
+ <span class="menu-text">Data and EDA</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -222,8 +222,15 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#how-the-price-distributions-change-over-time" id="toc-how-the-price-distributions-change-over-time" class="nav-link active" data-scroll-target="#how-the-price-distributions-change-over-time">How the Price Distributions Change Over Time</a></li>
+  <li><a href="#price-changes" id="toc-price-changes" class="nav-link active" data-scroll-target="#price-changes">Price changes</a>
+  <ul class="collapse">
+  <li><a href="#how-the-price-distributions-change-over-time" id="toc-how-the-price-distributions-change-over-time" class="nav-link" data-scroll-target="#how-the-price-distributions-change-over-time">How the Price Distributions Change Over Time</a></li>
   <li><a href="#wasserstein-distances1" id="toc-wasserstein-distances1" class="nav-link" data-scroll-target="#wasserstein-distances1">Wasserstein Distances<sup style="font-size: 0.7em;">1</sup></a></li>
+  </ul></li>
+  <li><a href="#number-of-flights-changes" id="toc-number-of-flights-changes" class="nav-link" data-scroll-target="#number-of-flights-changes">Number of Flights changes</a>
+  <ul class="collapse">
+  <li><a href="#how-the-number-of-flights-over-time" id="toc-how-the-number-of-flights-over-time" class="nav-link" data-scroll-target="#how-the-number-of-flights-over-time">How the Number of Flights Over Time</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -247,6 +254,8 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<section id="price-changes" class="level1">
+<h1>Price changes</h1>
 <section id="how-the-price-distributions-change-over-time" class="level2">
 <h2 class="anchored" data-anchor-id="how-the-price-distributions-change-over-time">How the Price Distributions Change Over Time</h2>
 <p style="text-align:center">
@@ -285,8 +294,87 @@ ul.task-list li input[type="checkbox"] {
 <img src="figures/time_window/wasserstein.png" width="960" height="540">
 </p>
 <p>The calculated Wasserstein distances reveal how the price distribution evolved over time. In general, most cities show a steady increase in the Wasserstein distances, implying a significant shift in the distribution of prices over the weeks. It is noteworthy that the distances spike notably in Paris, Berlin, and Madrid around mid-April, suggesting a dramatic change in price distribution during this period. The notable spikes observed in the Wasserstein distances for Paris, Berlin, and Madrid, cities relatively close to London, around mid-April could potentially be associated with the Easter holiday period. During this time, a surge in flight search volume is typically observed, possibly reflecting an increase in travel demand. Given their geographical proximity, travellers from London might prefer these cities as their holiday destinations, leading to an increased demand for flights to these destinations. This heightened demand could result in a sharp rise in flight ticket prices, resulting in significant shifts in price distributions, which might be the cause of the spikes observed in our analysis. Therefore, understanding the impact of seasonal holidays and considering related factors such as geographical location can provide us with a more comprehensive perspective on flight ticket pricing patterns.</p>
+</section>
+</section>
+<section id="number-of-flights-changes" class="level1">
+<h1>Number of Flights changes</h1>
+<section id="how-the-number-of-flights-over-time" class="level2">
+<h2 class="anchored" data-anchor-id="how-the-number-of-flights-over-time">How the Number of Flights Over Time</h2>
+<table class="table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Athens</th>
+<th style="text-align: center;">Berlin</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><img src="figures/no_flight/athens.png" class="img-fluid" alt="Athens"></td>
+<td style="text-align: center;"><img src="figures/no_flight/berlin.png" class="img-fluid" alt="Berlin"></td>
+</tr>
+</tbody>
+</table>
+<table class="table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Budapest</th>
+<th style="text-align: center;">Lisbon</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><img src="figures/no_flight/budapest.png" class="img-fluid" alt="Budapest"></td>
+<td style="text-align: center;"><img src="figures/no_flight/lisbon.png" class="img-fluid" alt="Lisbon"></td>
+</tr>
+</tbody>
+</table>
+<table class="table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Madrid</th>
+<th style="text-align: center;">Paris</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><img src="figures/no_flight/madrid.png" class="img-fluid" alt="Madrid"></td>
+<td style="text-align: center;"><img src="figures/no_flight/paris.png" class="img-fluid" alt="Paris"></td>
+</tr>
+</tbody>
+</table>
+<table class="table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Rome</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><img src="figures/no_flight/rome.png" class="img-fluid" alt="Rome"></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

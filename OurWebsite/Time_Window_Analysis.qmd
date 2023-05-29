@@ -1,6 +1,8 @@
 ---
 title: "Time Window Analysis"
 ---
+# Price changes
+
 ## How the Price Distributions Change Over Time
 
 <p style='text-align:center'>
@@ -42,6 +44,27 @@ From the dynamic graphs above we can see that, in terms of the distribution of p
 
 The calculated Wasserstein distances reveal how the price distribution evolved over time. In general, most cities show a steady increase in the Wasserstein distances, implying a significant shift in the distribution of prices over the weeks. It is noteworthy that the distances spike notably in Paris, Berlin, and Madrid around mid-April, suggesting a dramatic change in price distribution during this period.
 The notable spikes observed in the Wasserstein distances for Paris, Berlin, and Madrid, cities relatively close to London, around mid-April could potentially be associated with the Easter holiday period. During this time, a surge in flight search volume is typically observed, possibly reflecting an increase in travel demand. Given their geographical proximity, travellers from London might prefer these cities as their holiday destinations, leading to an increased demand for flights to these destinations. This heightened demand could result in a sharp rise in flight ticket prices, resulting in significant shifts in price distributions, which might be the cause of the spikes observed in our analysis. Therefore, understanding the impact of seasonal holidays and considering related factors such as geographical location can provide us with a more comprehensive perspective on flight ticket pricing patterns.
+
+# Number of Flights changes
+
+## How the Number of Flights Over Time
+
+|                      Athens                       |                      Berlin                       |
+|:------------------------------------------------:|:------------------------------------------------:|
+| ![Athens](figures/no_flight/athens.png)        | ![Berlin](figures/no_flight/berlin.png)        |
+
+|                     Budapest                      |                      Lisbon                       |
+|:------------------------------------------------:|:------------------------------------------------:|
+| ![Budapest](figures/no_flight/budapest.png)    | ![Lisbon](figures/no_flight/lisbon.png)        |
+
+|                      Madrid                       |                      Paris                        |
+|:------------------------------------------------:|:------------------------------------------------:|
+| ![Madrid](figures/no_flight/madrid.png)        | ![Paris](figures/no_flight/paris.png)          |
+
+|                       Rome                        |                                                   |
+|:------------------------------------------------:|--------------------------------------------------|
+| ![Rome](figures/no_flight/rome.png)            |     
+
 
 [1]: https://en.wikipedia.org/wiki/Wasserstein_metric
 
