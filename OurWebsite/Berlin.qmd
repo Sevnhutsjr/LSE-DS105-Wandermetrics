@@ -24,7 +24,6 @@ title: "Berlin"
 </tr>
 </table>
 
-<<<<<<< Updated upstream
 ------------------------------------------------
 
 ### Explanation
@@ -34,32 +33,4 @@ If you are willing to sacrifice leg room for a cheaper flight ticket, chose Ryan
 Flight prices to Berlin are higher towards the end of September due to the high demand caused by the world-famous Oktoberfest celebration, drawing tourists from around the globe to the city.
 
 ------------------------------------------------
-=======
-
-<table>
-<tr>
-    <td> 
-        <figure>
-            <figcaption style="text-align: center;"><strong>Average Price</strong></figcaption>
-            <img src="figures/prices_flights/berlin_price_average.png" style="width: 500px;"/>
-        </figure>
-    </td>
-    <td> 
-        <figure>
-            <figcaption style="text-align: center;"><strong>Median Price</strong></figcaption>
-            <img src="figures/prices_flights/berlin_price_median.png" style="width: 500px;"/>
-        </figure>
-    </td>
-</tr>
-<tr>
-    <td colspan="2" style="text-align:center;"> 
-        <figure>
-            <figcaption style="text-align: center;"><strong>Minimum Price</strong></figcaption>
-            <img src="figures/prices_flights/berlin_price_min.png" style="width: 500px;"/>
-        </figure>
-    </td>
-</tr>
-</table>
-
->>>>>>> Stashed changes
 
