@@ -8,9 +8,33 @@ title: "Berlin"
 #### Unleash your wanderlust in Berlin, where you can witness the remnants of the iconic Berlin Wall, stroll along the bustling East Side Gallery, and savour the flavours of the city's beloved currywurst, creating an unforgettable tapestry of experiences.
 <br>
 
+------------------------------------------------
+
 # Price to Berlin by Departure Time
 
+<p style='text-align:center'>
+    <img src="figures/time/berlin.jpeg"/>
+</p>
+
+
+### Explanation
+
+There seems to be no relationship between flight prices and departure time for Berlin as the fluctuation seems to be random throughout the day.
+
+------------------------------------------------
+
 # Price to Berlin by Departure Airport
+
+<p style='text-align:center'>
+    <img src="figures/airport/berlin.jpeg" width="960"/>
+</p>
+
+
+### Explanation
+
+Out of the seven capital cities we’ve analysed, Berlin is the most accessible with the highest number of departure airports. You are able to choose from all five airports! It is the only city with access from London City– a convenient choice for anyone in the east. If you’re looking for the cheapest flight, London Stansted is your option, offering the lowest minimum price across all summer months, less than half the price of flying from Heathrow! 
+
+------------------------------------------------
 
 # Price to Berlin by Airline
 
@@ -24,9 +48,13 @@ title: "Berlin"
 </tr>
 </table>
 
+<<<<<<< Updated upstream
 ------------------------------------------------
 
 ### Analysis
+=======
+### Explanation
+>>>>>>> Stashed changes
 
 If you are willing to sacrifice leg room for a cheaper flight ticket, chose Ryanair to fly to Berlin this summer. Not only does it offer on average the cheaper flights, but it presents most of the cheapest flights to Berlin. However, shopping between multiple airlines on outbound and return flights may provide a slightly cheaper option than Ryanair, as seen in week 36.
 
