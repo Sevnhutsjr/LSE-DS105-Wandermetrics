@@ -32,9 +32,9 @@ To understand how the data looks like, we had plotted the data distribution for 
 
 In order to find out factors affects weekend flight price, we carried out several analysis:
 
-1.Departure Time Analysis：
+1.Departure Time Analysis：[flight_time_analysis.ipynb](https://github.com/Sevnhutsjr/LSE-DS105-Wandermetrics/blob/main/Visualisations/flight_time_analysis.ipynb). This notebook contains the code for graphs showing how, for each city analysed, the price varies for each departure time throughout the day. We decide to visualise the median on the basis of understanding whether the departure time is relevant for flyers trying to minimise travel costs.
 
-2.Departure Airport Analysis：
+2.Departure Airport Analysis：[dep_airport_analysis.ipynb](https://github.com/Sevnhutsjr/LSE-DS105-Wandermetrics/blob/main/Visualisations/dep_airport_analysis.ipynb). This set of analyses plots the median and minimum price per month to fly to each city, with each line on each graph comparing how these prices differ between each departure airport. By making these visualisations, we are able to analyse the change in prices and differences in available airports for each city. The median allows us to grasp the expected price perceived by flyers, whereas the minimum price provides a more relevant picture for budget travellers choosing to optimise their cost within each flight date.
 
 3.Carrier Provider and Price Analysis：[price_analysis.ipynb](https://github.com/Sevnhutsjr/LSE-DS105-Wandermetrics/blob/main/Visualisations/price_analysis.ipynb). Here we analyse the price to each destination for each airline overall. We use the mean to see what your expected flight price is, median to understand the price range and the minimum to see what the cheapest airline and destination is. There is a “mixed” line which represents chosing a different outbound and return airline to your destination and is only interesting in regards to the minimum price, as it shows what the cheapest price could be. 
 
