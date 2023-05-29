@@ -1,3 +1,12 @@
 ---
 title: "Instruction"
 ---
+<p style='text-align:center'>
+    <img src="figures/instruction.webp" width="960" height="540" />
+</p>
+
+To explore our analysis, we analysed the mean, median and minimum price to find the price difference of airlines to our chosen capitals. We use the mean to see what your expected flight price is, median to understand the price range and the minimum to see what the cheapest airline and destination is. In the flight price analysis the “mixed” line represents different outbound and return airlines to your destination and is interesting in regards to the minimum price.
+
+------------------------------------------------
+
+<br>

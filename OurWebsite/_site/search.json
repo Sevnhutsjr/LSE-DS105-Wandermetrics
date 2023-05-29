@@ -18,7 +18,7 @@
     "href": "Time_Window_Analysis.html",
     "title": "Time Window Analysis",
     "section": "",
-    "text": "From the dynamic graphs above we can see that, in terms of the distribution of prices across the seven time windows, there is a general trend of prices increasing in all cities. This is evidenced by the rise in the median and quartile values across successive weeks. However, there are notable differences in the degree of increase among cities. For instance, cities like Madrid and Budapest showed considerable increase in prices, while the price rise in Paris and Berlin was more modest.Regardless of these variations, Athens consistently had the highest prices across all time windows.\n\n\n\n\n\n\nThe calculated Wasserstein distances reveal how the price distribution evolved over time. In general, most cities show a steady increase in the Wasserstein distances, implying a significant shift in the distribution of prices over the weeks. It is noteworthy that the distances spike notably in Paris, Berlin, and Madrid around mid-April, suggesting a dramatic change in price distribution during this period. The notable spikes observed in the Wasserstein distances for Paris, Berlin, and Madrid, cities relatively close to London, around mid-April could potentially be associated with the Easter holiday period. During this time, a surge in flight search volume is typically observed, possibly reflecting an increase in travel demand. Given their geographical proximity, travellers from London might prefer these cities as their holiday destinations, leading to an increased demand for flights to these destinations. This heightened demand could result in a sharp rise in flight ticket prices, resulting in significant shifts in price distributions, which might be the cause of the spikes observed in our analysis. Therefore, understanding the impact of seasonal holidays and considering related factors such as geographical location can provide us with a more comprehensive perspective on flight ticket pricing patterns."
+    "text": "From the dynamic graphs above we can see that, in terms of the distribution of prices across the seven time windows, there is a general trend of prices increasing in all cities. This is evidenced by the rise in the median and quartile values across successive weeks. However, there are notable differences in the degree of increase among cities. For instance, cities like Madrid and Budapest showed considerable increase in prices, while the price rise in Paris and Berlin was more modest.Regardless of these variations, Athens consistently had the highest prices across all time windows.\n\n\n\n\n\n\n\n\nThe calculated Wasserstein distances reveal how the price distribution evolved over time. In general, most cities show a steady increase in the Wasserstein distances, implying a significant shift in the distribution of prices over the weeks. It is noteworthy that the distances spike notably in Paris, Berlin, and Madrid around mid-April, suggesting a dramatic change in price distribution during this period. The notable spikes observed in the Wasserstein distances for Paris, Berlin, and Madrid, cities relatively close to London, around mid-April could potentially be associated with the Easter holiday period. During this time, a surge in flight search volume is typically observed, possibly reflecting an increase in travel demand. Given their geographical proximity, travellers from London might prefer these cities as their holiday destinations, leading to an increased demand for flights to these destinations. This heightened demand could result in a sharp rise in flight ticket prices, resulting in significant shifts in price distributions, which might be the cause of the spikes observed in our analysis. Therefore, understanding the impact of seasonal holidays and considering related factors such as geographical location can provide us with a more comprehensive perspective on flight ticket pricing patterns."
   },
   {
     "objectID": "Time_Window_Analysis.html#how-the-price-distributions-change-over-time",
@@ -74,14 +74,14 @@
     "href": "Data_Collection.html#outlier-analysis",
     "title": "Data and EDA",
     "section": "Outlier Analysis",
-    "text": "Outlier Analysis\nOur analysis identified outliers in flight ticket prices for each city using the Interquartile Range (IQR) method. The number of outliers varied across cities, with Madrid having the most (814) and Budapest the least (53).\n\n\n\nCity\nParis\nBerlin\nMadrid\nLisbon\nRome\nBudapest\nAthens\n\n\n\n\nOutliers\n298\n68\n814\n72\n205\n53\n63\n\n\n\n\nNumber of Outliers per Month\n\n\n\nIn terms of monthly distribution, outliers were most common in June for most cities, except Paris and Berlin, which had the most outliers in September. August had the fewest outliers across all cities.\n\n\nNumber of Outliers per Carrier\n\n\n\nWhen examining outliers by carrier, British Airways had a significant number of outliers across all cities. For Paris, the majority of outliers were associated with easyJet, while for Madrid, outliers were almost evenly distributed between British Airways, Iberia, and Vueling Airlines.\n\n\nNumber of Outliers per Departure Airport\n\n\n\nRegarding departure airports, London Heathrow had the most outliers across all cities, suggesting that flights from this airport are more likely to have extreme prices.\nThese findings suggest that the month of travel, the airline, and the departure airport can significantly influence the likelihood of encountering extreme ticket prices. This information can be valuable for travellers seeking to avoid high costs.\n\nWe’ve decided to use the median for our visualisations because the presence of outliers can skew the mean, making it less representative of our data. In such cases, the median provides a more stable measure of central tendency, and so we opt to use it for further visualisations."
+    "text": "Outlier Analysis\nOur analysis identified outliers in flight ticket prices for each city using the Interquartile Range (IQR) method. The number of outliers varied across cities, with Madrid having the most (814) and Budapest the least (53).\n\n\n\nCity\nParis\nBerlin\nMadrid\nLisbon\nRome\nBudapest\nAthens\n\n\n\n\nOutliers\n298\n68\n814\n72\n205\n53\n63\n\n\n\n\nNumber of Outliers per Month\n\n\n\nIn terms of monthly distribution, outliers were most common in June for most cities, except Paris and Berlin, which had the most outliers in September. August had the fewest outliers across all cities.\n\n\nNumber of Outliers per Carrier\n\n\n\nWhen examining outliers by carrier, British Airways had a significant number of outliers across all cities. For Paris, the majority of outliers were associated with easyJet, while for Madrid, outliers were almost evenly distributed between British Airways, Iberia, and Vueling Airlines.\n\n\nNumber of Outliers per Departure Airport\n\n\n\nRegarding departure airports, London Heathrow had the most outliers across all cities, suggesting that flights from this airport are more likely to have extreme prices.\nThese findings suggest that the month of travel, the airline, and the departure airport can significantly influence the likelihood of encountering extreme ticket prices. This information can be valuable for travellers seeking to avoid high costs."
   },
   {
     "objectID": "index.html#project-overview",
     "href": "index.html#project-overview",
     "title": "Where Should You Go For Weekend Getaway This Summer?",
     "section": "Project Overview",
-    "text": "Project Overview"
+    "text": "Project Overview\nWith this project, we want to find the “ideal weekend getaway” in summer for Londoners. The trip would be from Friday to Sunday and to a choice of 7 European capital cities."
   },
   {
     "objectID": "index.html#our-motivation",
@@ -186,7 +186,7 @@
     "href": "Time_Window_Analysis.html#how-the-number-of-flights-over-time",
     "title": "Time Window Analysis",
     "section": "How the Number of Flights Over Time",
-    "text": "How the Number of Flights Over Time\n\n\n\n\n\n\n\nAthens\nBerlin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBudapest\nLisbon\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMadrid\nParis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRome"
+    "text": "How the Number of Flights Over Time\n\n\n\n\n\n\n\nAthens\nBerlin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBudapest\nLisbon\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMadrid\nParis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRome\n\n\n\n\n\n\n\n\n\n\nHere are several pivot tables concluding the number of flights available for each month depending on which weekend you are searching. In general, there are more options as it comes closer to the date of flight for each city. On the other hand, Paris and Budapest have a consistent number of flights regardless of when you are searching for flight tickets."
   },
   {
     "objectID": "Conclusion.html#what-you-need-to-know",
@@ -222,5 +222,19 @@
     "title": "Conclusion",
     "section": "Departure Time",
     "text": "Departure Time\n\nMedian prices for flight times are inconsistent as they constantly fluctuate throughout the day.\nLate night/early morning flights doesn’t guarantee cheaper tickets.\nFor Berlin, departing between 08.00 and 13.00 will cost more.\n\n\n\nNow go pack your bags, you’re ready to go! 🏝"
+  },
+  {
+    "objectID": "instruction.html",
+    "href": "instruction.html",
+    "title": "Instruction",
+    "section": "",
+    "text": "To explore our analysis, we analysed the mean, median and minimum price to find the price difference of airlines to our chosen capitals. We use the mean to see what your expected flight price is, median to understand the price range and the minimum to see what the cheapest airline and destination is. In the flight price analysis the “mixed” line represents different outbound and return airlines to your destination and is interesting in regards to the minimum price."
+  },
+  {
+    "objectID": "index.html#our-goals",
+    "href": "index.html#our-goals",
+    "title": "Where Should You Go For Weekend Getaway This Summer?",
+    "section": "Our Goals",
+    "text": "Our Goals\n We want to find the cheapest and the most flexible destinations. We are interested to uncover the price difference in departure airports and what time of day flight tickets are cheapest. In addition to this, we are intrigued to see whether flight ticket prices change closer to the date!"
   }
 ]

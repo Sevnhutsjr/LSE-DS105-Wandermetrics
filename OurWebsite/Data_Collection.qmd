@@ -7,9 +7,17 @@ title: "Data and EDA"
 3. **Data Complexity**: The vast amount of data, with 412 variables, required a complex process to identify the 30 most relevant variables for our project.
 4. **Data Volume**: The sheer volume of data collected for booking time window analysis was immense, as we collected data weekly for seven weeks for flights from London to seven cities.
 
+------------------------------------------------
+
+<br>
+
 # Data Overview
 
 The data includes various details such as departure and arrival times, airports, airlines, booking agents, flight duration, ticket prices, etc..
+
+------------------------------------------------
+
+<br>
 
 ## Data distribution
 
@@ -47,6 +55,10 @@ Some interesting points：
 
 Since all cities show a right-skewed distribution, it becomes crucial to analyse the outliers. We aim to determine if the outliers share the same properties across these cities.
 
+------------------------------------------------
+
+<br>
+
 ## Outlier Analysis
 
 Our analysis identified outliers in flight ticket prices for each city using the Interquartile Range (IQR) method. The number of outliers varied across cities, with Madrid having the most (814) and Budapest the least (53).
@@ -81,6 +93,7 @@ Regarding departure airports, London Heathrow had the most outliers across all c
 
 These findings suggest that the month of travel, the airline, and the departure airport can significantly influence the likelihood of encountering extreme ticket prices. This information can be valuable for travellers seeking to avoid high costs.
 
+------------------------------------------------
+
 <br>
 
-**We've decided to use the median for our visualisations because the presence of outliers can skew the mean, making it less representative of our data. In such cases, the median provides a more stable measure of central tendency, and so we opt to use it for further visualisations.**

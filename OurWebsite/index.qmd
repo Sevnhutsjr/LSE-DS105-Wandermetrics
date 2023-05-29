@@ -6,14 +6,29 @@ A complete guide to a wonderful summer for Londoners      --- by WanderMetrics
 <br>
 
 ## Project Overview
-<br>
 
+With this project, we want to find the “ideal weekend getaway” in summer for Londoners. The trip would be from Friday to Sunday and to a choice of 7 European capital cities.
 
 <p style='text-align:center'>
     <img src="figures/Wallpapers/web_flight.jpg" width="960" height="540" />
 </p>
 
+------------------------------------------------
+
+<br>
+
 ## Our Motivation
 <br>
 Our motivation to pursue this topic came from our love of going on holidays. While studying, we don’t often have the time to go away for a week, so the idea of a weekend holiday sprung to mind. As international students, the question also related to us as we were intrigued to find whether booking tickets closer to the date made them more expensive? We are also very interested where and when to book our next weekend away holiday with our student budget. 
 
+------------------------------------------------
+
+<br>
+
+## Our Goals
+<br>
+We want to find the cheapest and the most flexible destinations. We are interested to uncover the price difference in departure airports and what time of day flight tickets are cheapest. In addition to this, we are intrigued to see whether flight ticket prices change closer to the date! 
+
+------------------------------------------------
+
+<br>
