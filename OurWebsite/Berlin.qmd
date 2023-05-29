@@ -5,7 +5,6 @@ title: "Berlin"
     <img src="figures/Wallpapers/berlin.jpg" width="960" height="530" />
 </p>
 
-<<<<<<< Updated upstream
 #### Unleash your wanderlust in Berlin, where you can witness the remnants of the iconic Berlin Wall, stroll along the bustling East Side Gallery, and savour the flavours of the city's beloved currywurst, creating an unforgettable tapestry of experiences.
 <br>
 
@@ -15,8 +14,6 @@ title: "Berlin"
 
 # Price to Berlin by Airline
 
-=======
->>>>>>> Stashed changes
 <table>
 <tr>
     <td> <img src="figures/prices_flights/berlin_price_average.png" style="width: 500px;"/> </td>
