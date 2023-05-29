@@ -8,11 +8,11 @@ title: "Lisbon"
 #### Embark on an enchanting journey to Lisbon, where the colourful mosaic streets of Alfama lead to the breathtaking viewpoints of Miradouro da Senhora do Monte, while the melancholic sounds of fado music fill the air and the aroma of freshly baked pastéis de nata tantalizes your senses, inviting you to immerse yourself in the captivating blend of history, culture, and culinary delights that make Lisbon a truly unforgettable destination. 
 <br>
 
-# Departure Time Analysis
+# Price to Lison by Departure Time
 
-# Departure Airport Analysis
+# Price to Lison by Departure Airport
 
-# Price to Madrid by Airline
+# Price to Lison by Airline
 
 <table>
 <tr>

@@ -9,9 +9,9 @@ title: "Berlin"
 #### Unleash your wanderlust in Berlin, where you can witness the remnants of the iconic Berlin Wall, stroll along the bustling East Side Gallery, and savour the flavours of the city's beloved currywurst, creating an unforgettable tapestry of experiences.
 <br>
 
-# Departure Time Analysis
+# Price to Berlin by Departure Time
 
-# Departure Airport Analysis
+# Price to Berlin by Departure Airport
 
 # Price to Berlin by Airline
 
