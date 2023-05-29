@@ -6,3 +6,22 @@ title: "Madrid"
 </p>
 
 #### Uncover the vibrant soul of Madrid, where you can wander through the grandeur of the Royal Palace, revel in the lively atmosphere of the bustling Puerta del Sol, and savour the tantalizing flavours of authentic Spanish cuisine, igniting a passion for the dynamic energy and cultural richness of this captivating city.
+<br>
+
+# Price to Madrid by Airline
+
+<table>
+<tr>
+    <td> <img src="figures/prices_flights/madrid_price_average.png" style="width: 500px;"/> </td>
+    <td> <img src="figures/prices_flights/madrid_price_median.png" style="width: 500px;"/> </td>
+</tr>
+<tr>
+    <td colspan="2" style="text-align:center;"> <img src="figures/prices_flights/madrid_price_min.png" style="width: 500px;"/> </td>
+</tr>
+</table>
+
+------------------------------------------------
+
+### Explanation
+
+------------------------------------------------
