@@ -1,5 +1,5 @@
 ---
-title: "How Our Data Looks Like and Some EDA"
+title: "Data and EDA"
 ---
 #  Data Collection Challenges
 1. **Volatility of Flight Ticket Prices**: The prices of flight tickets are influenced by numerous factors, requiring a careful approach to analysis.
