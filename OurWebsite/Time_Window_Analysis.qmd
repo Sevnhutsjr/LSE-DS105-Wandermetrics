@@ -4,31 +4,31 @@ title: "Time Window Analysis"
 ## How the Price Distributions Change Over Time
 
 <p style='text-align:center'>
-   <iframe src="figures/output_Paris.html" width="800" height="500"></iframe>
+   <iframe src="figures/time_window/output_Paris.html" width="800" height="500"></iframe>
 <p>
 
 <p style='text-align:center'>
-   <iframe src="figures/output_Berlin.html" width="800" height="540"></iframe>
+   <iframe src="figures/time_window/output_Berlin.html" width="800" height="540"></iframe>
 <p>
 
 <p style='text-align:center'>
-   <iframe src="figures/output_Madrid.html" width="800" height="540"></iframe>
+   <iframe src="figures/time_window/output_Madrid.html" width="800" height="540"></iframe>
 <p>
 
 <p style='text-align:center'>
-   <iframe src="figures/output_Lisbon.html" width="800" height="540"></iframe>
+   <iframe src="figures/time_window/output_Lisbon.html" width="800" height="540"></iframe>
 <p>
 
 <p style='text-align:center'>
-   <iframe src="figures/output_Rome.html" width="800" height="540"></iframe>
+   <iframe src="figures/time_window/output_Rome.html" width="800" height="540"></iframe>
 <p>
 
 <p style='text-align:center'>
-   <iframe src="figures/output_Budapest.html" width="800" height="540"></iframe>
+   <iframe src="figures/time_window/output_Budapest.html" width="800" height="540"></iframe>
 <p>
 
 <p style='text-align:center'>
-   <iframe src="figures/output_Athens.html" width="800" height="540"></iframe>
+   <iframe src="figures/time_window/output_Athens.html" width="800" height="540"></iframe>
 <p>
 
 
@@ -37,7 +37,7 @@ From the dynamic graphs above we can see that, in terms of the distribution of p
 ## Wasserstein Distances<sup style="font-size: 0.7em;">[1]</sup>
 
 <p style='text-align:center'>
-    <img src="figures/wasserstein.png" width="960" height="540" />
+    <img src="figures/time_window/wasserstein.png" width="960" height="540" />
 </p>
 
 The calculated Wasserstein distances reveal how the price distribution evolved over time. In general, most cities show a steady increase in the Wasserstein distances, implying a significant shift in the distribution of prices over the weeks. It is noteworthy that the distances spike notably in Paris, Berlin, and Madrid around mid-April, suggesting a dramatic change in price distribution during this period.

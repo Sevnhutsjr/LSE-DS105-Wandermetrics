@@ -8,6 +8,10 @@ title: "Berlin"
 #### Unleash your wanderlust in Berlin, where you can witness the remnants of the iconic Berlin Wall, stroll along the bustling East Side Gallery, and savour the flavours of the city's beloved currywurst, creating an unforgettable tapestry of experiences.
 <br>
 
+# Departure Time Analysis
+
+# Departure Airport Analysis
+
 # Price to Berlin by Airline
 
 <table>
@@ -30,5 +34,3 @@ Flight prices to Berlin are higher towards the end of September due to the high 
 
 ------------------------------------------------
 
-
-# Airport Analysis
